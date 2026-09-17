@@ -1,0 +1,2470 @@
+year,month,mkt_id,dest_city,passengers,season
+2024,12,31703,"New York, NY",4087194.0,winter
+2024,12,30397,"Atlanta, GA",3795535.0,winter
+2024,12,30194,"Dallas/Fort Worth, TX",3773612.0,winter
+2024,12,32575,"Los Angeles, CA",3452937.0,winter
+2024,12,30977,"Chicago, IL",3274312.0,winter
+2024,12,30325,"Denver, CO",3176947.0,winter
+2024,12,32467,"Miami, FL",2739379.0,winter
+2024,12,30852,"Washington, DC",2697078.0,winter
+2024,12,32457,"San Francisco, CA",2325756.0,winter
+2024,12,30466,"Phoenix, AZ",2250126.0,winter
+2024,12,32211,"Las Vegas, NV",2214373.0,winter
+2024,12,31454,"Orlando, FL",2198176.0,winter
+2024,12,31057,"Charlotte, NC",2147110.0,winter
+2024,12,31453,"Houston, TX",2041179.0,winter
+2024,12,30559,"Seattle, WA",1786907.0,winter
+2024,12,30721,"Boston, MA",1520097.0,winter
+2024,12,31650,"Minneapolis, MN",1319458.0,winter
+2024,12,31295,"Detroit, MI",1167169.0,winter
+2024,12,33195,"Tampa, FL",1158086.0,winter
+2024,12,34614,"Salt Lake City, UT",1088308.0,winter
+2024,12,34100,"Philadelphia, PA",1032598.0,winter
+2024,12,33570,"San Diego, CA",1024919.0,winter
+2024,12,30693,"Nashville, TN",927276.0,winter
+2024,12,30423,"Austin, TX",840683.0,winter
+2024,12,32134,"Honolulu, HI",780799.0,winter
+2024,12,34057,"Portland, OR",714095.0,winter
+2024,12,31123,"St. Louis, MO",611652.0,winter
+2024,12,34492,"Raleigh/Durham, NC",610967.0,winter
+2024,12,34819,"San Juan, PR",601195.0,winter
+2024,12,31714,"Fort Myers, FL",561254.0,winter
+2024,12,33192,"Sacramento, CA",541294.0,winter
+2024,12,33495,"New Orleans, LA",517138.0,winter
+2024,12,33198,"Kansas City, MO",456385.0,winter
+2024,12,34027,"West Palm Beach/Palm Beach, FL",446077.0,winter
+2024,12,33214,"San Antonio, TX",440360.0,winter
+2024,12,30647,"Cleveland, OH",400377.0,winter
+2024,12,32337,"Indianapolis, IN",400057.0,winter
+2024,12,30198,"Pittsburgh, PA",360097.0,winter
+2024,12,31066,"Columbus, OH",349453.0,winter
+2024,12,33105,"Cincinnati, OH",332714.0,winter
+2024,12,31136,"Jacksonville, FL",323466.0,winter
+2024,12,33830,"Kahului, HI",299212.0,winter
+2024,12,30529,"Hartford, CT",275391.0,winter
+2024,12,30994,"Charleston, SC",235814.0,winter
+2024,12,33342,"Milwaukee, WI",225967.0,winter
+2024,12,30713,"Boise, ID",224816.0,winter
+2024,12,30140,"Albuquerque, NM",218575.0,winter
+2024,12,34986,"Sarasota/Bradenton, FL",208937.0,winter
+2024,12,33316,"Omaha, NE",204078.0,winter
+2024,12,34524,"Richmond, VA",202877.0,winter
+2024,12,33667,"Norfolk, VA",200356.0,winter
+2024,12,34570,"Reno, NV",196917.0,winter
+2024,12,30792,"Buffalo, NY",187715.0,winter
+2024,12,33244,"Memphis, TN",186999.0,winter
+2024,12,33851,"Oklahoma City, OK",182602.0,winter
+2024,12,32758,"Kona, HI",181737.0,winter
+2024,12,30299,"Anchorage, AK",177139.0,winter
+2024,12,31884,"Spokane, WA",176314.0,winter
+2024,12,30436,"Tucson, AZ",175331.0,winter
+2024,12,30615,"El Paso, TX",174219.0,winter
+2024,12,31986,"Grand Rapids, MI",170055.0,winter
+2024,12,33044,"Louisville, KY",167236.0,winter
+2024,12,32982,"Lihue, HI",155872.0,winter
+2024,12,34685,"Savannah, GA",153767.0,winter
+2024,12,34262,"Palm Springs, CA",149384.0,winter
+2024,12,35412,"Knoxville, TN",143412.0,winter
+2024,12,34761,"Sanford, FL",139496.0,winter
+2024,12,30599,"Birmingham, AL",132821.0,winter
+2024,12,34653,"Tulsa, OK",130709.0,winter
+2024,12,31423,"Des Moines, IA",124989.0,winter
+2024,12,30257,"Albany, NY",123693.0,winter
+2024,12,31871,"Greer, SC",118394.0,winter
+2024,12,34082,"Punta Gorda, FL",117418.0,winter
+2024,12,33728,"Pensacola, FL",114020.0,winter
+2024,12,35096,"Syracuse, NY",111858.0,winter
+2024,12,34576,"Rochester, NY",109340.0,winter
+2024,12,30849,"Bozeman, MT",105438.0,winter
+2024,12,30189,"Colorado Springs, CO",103177.0,winter
+2024,12,31135,"Myrtle Beach, SC",97422.0,winter
+2024,12,33485,"Madison, WI",95535.0,winter
+2024,12,31834,"Fayetteville, AR",95404.0,winter
+2024,12,31638,"Fresno, CA",94358.0,winter
+2024,12,32600,"Little Rock, AR",92654.0,winter
+2024,12,34945,"Charlotte Amalie, VI",80844.0,winter
+2024,12,31995,"Greensboro/High Point, NC",79292.0,winter
+2024,12,34321,"Portland, ME",74953.0,winter
+2024,12,30928,"Wichita, KS",73209.0,winter
+2024,12,30431,"Asheville, NC",73110.0,winter
+2024,12,31624,"Key West, FL",73058.0,winter
+2024,12,30255,"Huntsville, AL",66844.0,winter
+2024,12,31603,"Eugene, OR",66430.0,winter
+2024,12,33158,"Midland/Odessa, TX",63004.0,winter
+2024,12,32323,"Wilmington, NC",61817.0,winter
+2024,12,31504,"Valparaiso, FL",61766.0,winter
+2024,12,32070,"Harrisburg, PA",61028.0,winter
+2024,12,32402,"Hilo, HI",60992.0,winter
+2024,12,34689,"Santa Barbara, CA",60181.0,winter
+2024,12,31775,"Sioux Falls, SD",59857.0,winter
+2024,12,32244,"New Haven, CT",59248.0,winter
+2024,12,31003,"Cedar Rapids/Iowa City, IA",59008.0,winter
+2024,12,32945,"Lexington, KY",57543.0,winter
+2024,12,34783,"Springfield, MO",57063.0,winter
+2024,12,30785,"Burlington, VT",56754.0,winter
+2024,12,31481,"Panama City, FL",53578.0,winter
+2024,12,31267,"Dayton, OH",52373.0,winter
+2024,12,30868,"Columbia, SC",51892.0,winter
+2024,12,34489,"Bend/Redmond, OR",51160.0,winter
+2024,12,33256,"Mission/McAllen/Edinburg, TX",50726.0,winter
+2024,12,32448,"Jackson/Vicksburg, MS",50254.0,winter
+2024,12,31637,"Fargo, ND",48148.0,winter
+2024,12,30408,"Appleton, WI",47337.0,winter
+2024,12,32896,"Lubbock, TX",47261.0,winter
+2024,12,32206,"Harlingen/San Benito, TX",46610.0,winter
+2024,12,34252,"Pasco/Kennewick/Richland, WA",46491.0,winter
+2024,12,30980,"Chattanooga, TN",45552.0,winter
+2024,12,31517,"Fairbanks, AK",43645.0,winter
+2024,12,34314,"Provo, UT",43591.0,winter
+2024,12,34696,"South Bend, IN",41915.0,winter
+2024,12,32441,"Jackson, WY",41649.0,winter
+2024,12,30620,"Billings, MT",41495.0,winter
+2024,12,33264,"Medford, OR",41277.0,winter
+2024,12,30372,"Aspen, CO",40740.0,winter
+2024,12,30135,"Allentown/Bethlehem/Easton, PA",39249.0,winter
+2024,12,31503,"Eagle, CO",39172.0,winter
+2024,12,34433,"Santa Rosa, CA",38707.0,winter
+2024,12,33486,"Missoula, MT",38303.0,winter
+2024,12,35249,"Tallahassee, FL",38192.0,winter
+2024,12,30732,"Aguadilla, PR",37106.0,winter
+2024,12,31823,"Fort Wayne, IN",36497.0,winter
+2024,12,31648,"Kalispell, MT",35293.0,winter
+2024,12,30279,"Amarillo, TX",34127.0,winter
+2024,12,34457,"Rapid City, SD",31850.0,winter
+2024,12,34108,"Peoria, IL",31744.0,winter
+2024,12,30781,"Baton Rouge, LA",31723.0,winter
+2024,12,30476,"Shreveport, LA",30847.0,winter
+2024,12,31140,"Corpus Christi, TX",30509.0,winter
+2024,12,34699,"Hayden, CO",30446.0,winter
+2024,12,34236,"San Luis Obispo, CA",30280.0,winter
+2024,12,34574,"Roanoke, VA",29802.0,winter
+2024,12,30158,"Atlantic City, NJ",29376.0,winter
+2024,12,34992,"Christiansted, VI",29344.0,winter
+2024,12,31721,"Flint, MI",28940.0,winter
+2024,12,33367,"Moline, IL",28688.0,winter
+2024,12,31252,"Daytona Beach, FL",28041.0,winter
+2024,12,33502,"Montrose/Delta, CO",27794.0,winter
+2024,12,30990,"Charlottesville, VA",27722.0,winter
+2024,12,30562,"Mobile, AL",27517.0,winter
+2024,12,32280,"Idaho Falls, ID",27479.0,winter
+2024,12,31973,"Gulfport/Biloxi, MS",26568.0,winter
+2024,12,35380,"Traverse City, MI",26399.0,winter
+2024,12,30627,"Bismarck/Mandan, ND",26300.0,winter
+2024,12,34004,"Everett, WA",24750.0,winter
+2024,12,34922,"Monterey, CA",24458.0,winter
+2024,12,31921,"Grand Junction, CO",24297.0,winter
+2024,12,30208,"Augusta, GA",24151.0,winter
+2024,12,32951,"Lafayette, LA",23688.0,winter
+2024,12,31977,"Green Bay, WI",23148.0,winter
+2024,12,30581,"Bangor, ME",22800.0,winter
+2024,12,31953,"Gainesville, FL",22772.0,winter
+2024,12,30285,"Durango, CO",22478.0,winter
+2024,12,33360,"Melbourne, FL",21958.0,winter
+2024,12,32523,"Juneau, AK",21178.0,winter
+2024,12,30434,"Scranton/Wilkes-Barre, PA",20524.0,winter
+2024,12,32544,"Concord, NC",19744.0,winter
+2024,12,30561,"Bakersfield, CA",18321.0,winter
+2024,12,35323,"Bristol/Johnson City/Kingsport, TN",18187.0,winter
+2024,12,30666,"Bellingham, WA",17248.0,winter
+2024,12,31146,"Charleston/Dunbar, WV",16988.0,winter
+2024,12,31612,"Evansville, IN",16361.0,winter
+2024,12,31895,"Great Falls, MT",16178.0,winter
+2024,12,33277,"Montgomery, AL",15974.0,winter
+2024,12,32320,"Wilmington, DE",15722.0,winter
+2024,12,34674,"Santa Fe, NM",15649.0,winter
+2024,12,33304,"Minot, ND",15248.0,winter
+2024,12,35356,"Trenton, NJ",15120.0,winter
+2024,12,34794,"St. George, UT",15106.0,winter
+2024,12,31641,"Fayetteville, NC",14378.0,winter
+2024,12,35041,"Sun Valley/Hailey/Ketchum, ID",13581.0,winter
+2024,12,30685,"Bloomington/Normal, IL",13506.0,winter
+2024,12,33038,"Laredo, TX",13004.0,winter
+2024,12,32016,"Guam, TT",12487.0,winter
+2024,12,30113,"Bethel, AK",12343.0,winter
+2024,12,34254,"Ponce, PR",12285.0,winter
+2024,12,33795,"Jacksonville/Camp Lejeune, NC",12256.0,winter
+2024,12,35628,"Vero Beach, FL",12126.0,winter
+2024,12,30747,"Brownsville, TX",12117.0,winter
+2024,12,30157,"Arcata/Eureka, CA",11943.0,winter
+2024,12,34512,"Rockford, IL",11632.0,winter
+2024,12,30676,"Belleville, IL",10774.0,winter
+2024,12,34711,"State College, PA",10601.0,winter
+2024,12,33029,"Lincoln, NE",10237.0,winter
+2024,12,33184,"Saginaw/Bay City/Midland, MI",9694.0,winter
+2024,12,31337,"Duluth, MN",9631.0,winter
+2024,12,33933,"Worcester, MA",9339.0,winter
+2024,12,32884,"Lansing, MI",9194.0,winter
+2024,12,32389,"Williston, ND",9152.0,winter
+2024,12,34025,"Plattsburgh, NY",8811.0,winter
+2024,12,31122,"Casper, WY",8418.0,winter
+2024,12,32156,"Helena, MT",8323.0,winter
+2024,12,33377,"Monroe, LA",8276.0,winter
+2024,12,30136,"Abilene, TX",8095.0,winter
+2024,12,31617,"New Bern/Morehead/Beaufort, NC",8038.0,winter
+2024,12,31401,"Ketchikan, AK",7951.0,winter
+2024,12,32474,"Columbia, MO",7945.0,winter
+2024,12,31982,"Killeen, TX",7827.0,winter
+2024,12,31537,"Elmira/Corning, NY",7777.0,winter
+2024,12,32547,"Rochester, MN",7512.0,winter
+2024,12,33785,"Yuma, AZ",7384.0,winter
+2024,12,32012,"Gunnison, CO",7371.0,winter
+2024,12,31898,"Grand Forks, ND",7275.0,winter
+2024,12,30185,"Alexandria, LA",7153.0,winter
+2024,12,33347,"Hoolehua, HI",7096.0,winter
+2024,12,33792,"Redding, CA",7077.0,winter
+2024,12,31205,"Lake Charles, LA",7008.0,winter
+2024,12,33290,"Manhattan/Ft. Riley, KS",6906.0,winter
+2024,12,32223,"Ashland, WV",6835.0,winter
+2024,12,31695,"Flagstaff, AZ",6782.0,winter
+2024,12,34955,"Saipan, TT",6514.0,winter
+2024,12,34716,"Stockton, CA",6502.0,winter
+2024,12,31980,"Grand Island, NE",6491.0,winter
+2024,12,34303,"Pullman, WA",6431.0,winter
+2024,12,30469,"Kalamazoo, MI",6419.0,winter
+2024,12,33139,"Lynchburg, VA",6380.0,winter
+2024,12,34259,"Portsmouth, NH",6319.0,winter
+2024,12,31067,"Champaign/Urbana, IL",6194.0,winter
+2024,12,34704,"Salisbury, MD",5683.0,winter
+2024,12,30424,"Mosinee, WI",5662.0,winter
+2024,12,30070,"Kodiak, AK",5428.0,winter
+2024,12,33127,"Lewiston, ID",5280.0,winter
+2024,12,35165,"Toledo, OH",5265.0,winter
+2024,12,33970,"Kotzebue, AK",5190.0,winter
+2024,12,33873,"Nome, AK",4939.0,winter
+2024,12,32124,"Hilton Head, SC",4854.0,winter
+2024,12,34828,"Sitka, AK",4680.0,winter
+2024,12,31577,"Erie, PA",4655.0,winter
+2024,12,32397,"Ithaca/Cortland, NY",4628.0,winter
+2024,12,31778,"Fort Smith, AR",4521.0,winter
+2024,12,31555,"Kenai, AK",4482.0,winter
+2024,12,35550,"Valdosta, GA",4378.0,winter
+2024,12,32265,"Niagara Falls, NY",4355.0,winter
+2024,12,30073,"Deadhorse, AK",4316.0,winter
+2024,12,34588,"Roswell, NM",4237.0,winter
+2024,12,34952,"Springfield, IL",4180.0,winter
+2024,12,32898,"Latrobe, PA",4175.0,winter
+2024,12,31049,"College Station/Bryan, TX",4149.0,winter
+2024,12,35626,"Vieques, PR",4087.0,winter
+2024,12,35411,"Tyler, TX",4054.0,winter
+2024,12,34842,"San Angelo, TX",4051.0,winter
+2024,12,30107,"Barrow, AK",3901.0,winter
+2024,12,30731,"Brunswick, GA",3898.0,winter
+2024,12,30155,"Waco, TX",3889.0,winter
+2024,12,31470,"Wenatchee, WA",3782.0,winter
+2024,12,30894,"Columbus, MS",3745.0,winter
+2024,12,34092,"Greenville, NC",3657.0,winter
+2024,12,36101,"Yakima, WA",3608.0,winter
+2024,12,31150,"Columbus, GA",3564.0,winter
+2024,12,31308,"Dothan, AL",3548.0,winter
+2024,12,32891,"Lawton/Fort Sill, OK",3374.0,winter
+2024,12,33459,"Marquette, MI",3065.0,winter
+2024,12,32119,"Hagerstown, MD",3057.0,winter
+2024,12,35389,"Twin Falls, ID",3056.0,winter
+2024,12,33076,"La Crosse, WI",2952.0,winter
+2024,12,30275,"Walla Walla, WA",2943.0,winter
+2024,12,30146,"Albany, GA",2892.0,winter
+2024,12,30728,"Beaumont/Port Arthur, TX",2891.0,winter
+2024,12,31867,"Garden City, KS",2885.0,winter
+2024,12,35401,"Texarkana, AR",2817.0,winter
+2024,12,34222,"Pago Pago, TT",2795.0,winter
+2024,12,31905,"Longview, TX",2705.0,winter
+2024,12,31865,"Gillette, WY",2653.0,winter
+2024,12,31097,"Cody, WY",2647.0,winter
+2024,12,35074,"Stillwater, OK",2544.0,winter
+2024,12,34871,"Salem, OR",2461.0,winter
+2024,12,35048,"Sioux City, IA",2416.0,winter
+2024,12,31233,"Cheyenne, WY",2403.0,winter
+2024,12,34237,"Prescott, AZ",2392.0,winter
+2024,12,31699,"Florence, SC",2387.0,winter
+2024,12,34812,"Sheridan, WY",2376.0,winter
+2024,12,31027,"Clarksburg/Fairmont, WV",2318.0,winter
+2024,12,32177,"Hobbs, NM",2318.0,winter
+2024,12,34543,"Rock Springs, WY",2302.0,winter
+2024,12,30154,"Nantucket, MA",2295.0,winter
+2024,12,32556,"St. Cloud, MN",2286.0,winter
+2024,12,34960,"Wichita Falls, TX",2271.0,winter
+2024,12,34534,"Riverton/Lander, WY",2249.0,winter
+2024,12,30631,"Bemidji, MN",2163.0,winter
+2024,12,31315,"Dickinson, ND",2157.0,winter
+2024,12,31336,"Dillingham, AK",2153.0,winter
+2024,12,35215,"Tinian, TT",2122.0,winter
+2024,12,31076,"Hancock/Houghton, MI",2100.0,winter
+2024,12,34113,"Pocatello, ID",2077.0,winter
+2024,12,33034,"Lanai, HI",2036.0,winter
+2024,12,30361,"Watertown, NY",1971.0,winter
+2024,12,34877,"Salina, KS",1970.0,winter
+2024,12,31013,"Sault Ste. Marie, MI",1963.0,winter
+2024,12,30141,"Aberdeen, SD",1961.0,winter
+2024,12,30009,"Homer, AK",1929.0,winter
+2024,12,32511,"Joplin, MO",1910.0,winter
+2024,12,33241,"Meridian, MS",1907.0,winter
+2024,12,31468,"Kearney, NE",1863.0,winter
+2024,12,34691,"San Bernardino, CA",1776.0,winter
+2024,12,30617,"Bishop, CA",1751.0,winter
+2024,12,34231,"Presque Isle/Houlton, ME",1677.0,winter
+2024,12,32335,"Iron Mountain/Kingsfd, MI",1629.0,winter
+2024,12,30779,"Butte, MT",1627.0,winter
+2024,12,33032,"Lancaster, PA",1613.0,winter
+2024,12,31587,"Escanaba, MI",1594.0,winter
+2024,12,35569,"Victoria, TX",1582.0,winter
+2024,12,32888,"Laramie, WY",1548.0,winter
+2024,12,32559,"Johnstown, PA",1536.0,winter
+2024,12,33743,"Ceiba, PR",1522.0,winter
+2024,12,30577,"Binghamton, NY",1521.0,winter
+2024,12,34520,"Rhinelander, WI",1518.0,winter
+2024,12,30409,"Watertown, SD",1495.0,winter
+2024,12,34150,"Pellston, MI",1473.0,winter
+2024,12,31126,"Culebra, PR",1465.0,winter
+2024,12,32255,"Hays, KS",1465.0,winter
+2024,12,32131,"Ogden, UT",1462.0,winter
+2024,12,34109,"Hattiesburg/Laurel, MS",1441.0,winter
+2024,12,31197,"Clovis, NM",1424.0,winter
+2024,12,30558,"Scottsbluff, NE",1417.0,winter
+2024,12,34256,"Petersburg, AK",1402.0,winter
+2024,12,31288,"Decatur, IL",1366.0,winter
+2024,12,35374,"Tupelo, MS",1357.0,winter
+2024,12,30913,"Cordova, AK",1321.0,winter
+2024,12,34120,"Pierre, SD",1305.0,winter
+2024,12,31471,"Eau Claire, WI",1290.0,winter
+2024,12,31445,"Unalaska, AK",1259.0,winter
+2024,12,32899,"North Platte, NE",1238.0,winter
+2024,12,30268,"Waterloo, IA",1229.0,winter
+2024,12,33964,"North Bend/Coos Bay, OR",1213.0,winter
+2024,12,33155,"Macon, GA",1207.0,winter
+2024,12,34006,"Paducah, KY",1136.0,winter
+2024,12,30739,"Brainerd, MN",1097.0,winter
+2024,12,30272,"Alamosa, CO",1094.0,winter
+2024,12,34905,"Santa Maria, CA",1087.0,winter
+2024,12,35177,"Telluride, CO",1074.0,winter
+2024,12,33543,"Marion/Herrin, IL",1071.0,winter
+2024,12,35138,"Fort Leonard Wood, MO",1036.0,winter
+2024,12,35841,"Wrangell, AK",1027.0,winter
+2024,12,35582,"Vernal, UT",970.0,winter
+2024,12,31525,"Elko, NV",952.0,winter
+2024,12,30967,"Cape Girardeau, MO",950.0,winter
+2024,12,33348,"Jackson, TN",950.0,winter
+2024,12,35381,"Thief River Falls, MN",920.0,winter
+2024,12,30322,"Altoona, PA",911.0,winter
+2024,12,30333,"Alpena, MI",911.0,winter
+2024,12,35855,"Westerly, RI",897.0,winter
+2024,12,30613,"Block Island, RI",885.0,winter
+2024,12,33541,"Martha's Vineyard, MA",882.0,winter
+2024,12,32129,"Hibbing, MN",876.0,winter
+2024,12,33282,"Morgantown, WV",866.0,winter
+2024,12,33983,"Owensboro, KY",840.0,winter
+2024,12,32519,"Jamestown, ND",828.0,winter
+2024,12,33832,"Ogdensburg, NY",823.0,winter
+2024,12,32902,"Liberal, KS",819.0,winter
+2024,12,32250,"Hyannis, MA",817.0,winter
+2024,12,33484,"Muscle Shoals, AL",817.0,winter
+2024,12,32932,"Lebanon-Hanover, NH",813.0,winter
+2024,12,31844,"Galena, AK",810.0,winter
+2024,12,33211,"Mason City, IA",795.0,winter
+2024,12,30918,"Cedar City, UT",786.0,winter
+2024,12,31447,"Devils Lake, ND",779.0,winter
+2024,12,31725,"Fort Dodge, IA",769.0,winter
+2024,12,31283,"Dodge City, KS",762.0,winter
+2024,12,32412,"Ironwood, MI",761.0,winter
+2024,12,33176,"Mayaguez, PR",757.0,winter
+2024,12,34802,"Staunton, VA",752.0,winter
+2024,12,30950,"Cortez, CO",747.0,winter
+2024,12,33121,"Lewisburg, WV",723.0,winter
+2024,12,32343,"International Falls, MN",720.0,winter
+2024,12,33182,"Manistee/Ludington, MI",717.0,winter
+2024,12,34943,"Show Low, AZ",707.0,winter
+2024,12,31550,"Emmonak, AK",701.0,winter
+2024,12,34582,"Rota, TT",693.0,winter
+2024,12,30245,"King Salmon, AK",623.0,winter
+2024,12,31931,"Greenville, MS",616.0,winter
+2024,12,31274,"Dubuque, IA",599.0,winter
+2024,12,34131,"Parkersburg, WV",595.0,winter
+2024,12,34054,"Pendleton, OR",584.0,winter
+2024,12,33388,"Mammoth Lakes, CA",576.0,winter
+2024,12,34745,"Sidney, MT",574.0,winter
+2024,12,30930,"Crescent City, CA",569.0,winter
+2024,12,35051,"Silver City/Hurley, NM",545.0,winter
+2024,12,31092,"Moab, UT",542.0,winter
+2024,12,31441,"DuBois, PA",522.0,winter
+2024,12,33344,"Muskegon, MI",509.0,winter
+2024,12,30589,"Bar Harbor, ME",494.0,winter
+2024,12,31646,"Friday Harbor, WA",483.0,winter
+2024,12,33490,"Massena, NY",461.0,winter
+2024,12,35478,"Unalakleet, AK",450.0,winter
+2024,12,33520,"Kamuela, HI",448.0,winter
+2024,12,31588,"Eastsound, WA",446.0,winter
+2024,12,34539,"Rockland, ME",440.0,winter
+2024,12,31833,"Fort Yukon, AK",430.0,winter
+2024,12,34648,"Rutland, VT",425.0,winter
+2024,12,31085,"Carlsbad, NM",418.0,winter
+2024,12,34081,"Page, AZ",418.0,winter
+2024,12,32375,"Kirksville, MO",408.0,winter
+2024,12,35991,"Yakutat, AK",404.0,winter
+2024,12,33194,"Merced, CA",400.0,winter
+2024,12,33109,"Kalaupapa, HI",396.0,winter
+2024,12,35554,"Chevak, AK",394.0,winter
+2024,12,32853,"Quinhagak, AK",382.0,winter
+2024,12,30654,"Beckley, WV",371.0,winter
+2024,12,30221,"Alliance, NE",367.0,winter
+2024,12,32779,"Kipnuk, AK",362.0,winter
+2024,12,35454,"Quincy, IL",361.0,winter
+2024,12,32207,"Harrison, AR",347.0,winter
+2024,12,34102,"Point Hope, AK",346.0,winter
+2024,12,30414,"Augusta/Waterville, ME",336.0,winter
+2024,12,32878,"Lafayette, IN",327.0,winter
+2024,12,34875,"Saranac Lake/Lake Placid, NY",325.0,winter
+2024,12,30020,"Selawik, AK",313.0,winter
+2024,12,32190,"Hot Springs, AR",307.0,winter
+2024,12,32195,"Hooper Bay, AK",303.0,winter
+2024,12,32018,"Gallup, NM",292.0,winter
+2024,12,30744,"Burlington, IA",291.0,winter
+2024,12,32214,"Huslia, AK",284.0,winter
+2024,12,30225,"Wainwright, AK",283.0,winter
+2024,12,31531,"El Dorado, AR",277.0,winter
+2024,12,31464,"Noatak, AK",272.0,winter
+2024,12,31041,"Carlsbad, CA",271.0,winter
+2024,12,33942,"Noorvik, AK",263.0,winter
+2024,12,32807,"St. Mary's, AK",259.0,winter
+2024,12,33200,"McCook, NE",258.0,winter
+2024,12,34718,"Scammon Bay, AK",252.0,winter
+2024,12,32245,"Havre, MT",251.0,winter
+2024,12,32769,"Kotlik, AK",251.0,winter
+2024,12,30247,"Anaktuvuk Pass, AK",249.0,winter
+2024,12,30416,"Alakanuk, AK",249.0,winter
+2024,12,30640,"Buckland, AK",244.0,winter
+2024,12,31908,"Glasgow, MT",244.0,winter
+2024,12,32649,"Nanwalek, AK",240.0,winter
+2024,12,32708,"Kongiganak, AK",235.0,winter
+2024,12,34805,"Shishmaref, AK",231.0,winter
+2024,12,33862,"Wolf Point, MT",229.0,winter
+2024,12,32363,"El Centro, CA",226.0,winter
+2024,12,35049,"Savoonga, AK",225.0,winter
+2024,12,35862,"Tuntutuliak, AK",220.0,winter
+2024,12,32455,"Jonesboro, AR",219.0,winter
+2024,12,33768,"Nulato, AK",218.0,winter
+2024,12,30304,"Aniak, AK",212.0,winter
+2024,12,32844,"Kivalina, AK",212.0,winter
+2024,12,35579,"Valdez, AK",212.0,winter
+2024,12,32831,"Kasigluk, AK",211.0,winter
+2024,12,34234,"Pilot Station, AK",210.0,winter
+2024,12,33196,"McGrath, AK",199.0,winter
+2024,12,32492,"Kapalua, HI",195.0,winter
+2024,12,33434,"Mountain Village, AK",191.0,winter
+2024,12,31879,"Glendive, MT",190.0,winter
+2024,12,32174,"Hana, HI",189.0,winter
+2024,12,34088,"Port Graham, AK",187.0,winter
+2024,12,30405,"Atmautluak, AK",186.0,winter
+2024,12,31227,"Chefornak, AK",186.0,winter
+2024,12,36553,"Akun, AK",186.0,winter
+2024,12,32704,"Koyuk, AK",185.0,winter
+2024,12,32321,"Iliamna, AK",183.0,winter
+2024,12,31492,"Eek, AK",182.0,winter
+2024,12,33369,"Marshall, AK",181.0,winter
+2024,12,33770,"Nunapitchuk, AK",180.0,winter
+2024,12,31535,"Elim, AK",177.0,winter
+2024,12,35124,"Tanana, AK",174.0,winter
+2024,12,32268,"Kiana, AK",172.0,winter
+2024,12,33894,"Toksook, AK",170.0,winter
+2024,12,32851,"Kwigillingok, AK",169.0,winter
+2024,12,35293,"Togiak, AK",167.0,winter
+2024,12,32855,"Kwethluk, AK",166.0,winter
+2024,12,33072,"Las Cruces, NM",166.0,winter
+2024,12,32719,"Kalskag, AK",165.0,winter
+2024,12,35257,"Tuluksak, AK",164.0,winter
+2024,12,34895,"St. Michael, AK",161.0,winter
+2024,12,35721,"Stebbins, AK",158.0,winter
+2024,12,32822,"Brevig Mission, AK",156.0,winter
+2024,12,30082,"Cold Bay, AK",154.0,winter
+2024,12,34627,"Russian Mission, AK",152.0,winter
+2024,12,34738,"Sandpoint, AK",150.0,winter
+2024,12,30165,"Adak Island, AK",149.0,winter
+2024,12,34474,"Ruby, AK",142.0,winter
+2024,12,32755,"New Stuyahok, AK",138.0,winter
+2024,12,30184,"Allakaket, AK",135.0,winter
+2024,12,30011,"Peach Springs, AZ",133.0,winter
+2024,12,30139,"Ambler, AK",133.0,winter
+2024,12,35887,"Newtok, AK",133.0,winter
+2024,12,30775,"Barter Island, AK",132.0,winter
+2024,12,34804,"Shungnak, AK",129.0,winter
+2024,12,32365,"Williamsport, PA",128.0,winter
+2024,12,31845,"Gambell, AK",126.0,winter
+2024,12,30396,"Atqasuk, AK",125.0,winter
+2024,12,34856,"Shaktoolik, AK",124.0,winter
+2024,12,35794,"White Mountain, AK",124.0,winter
+2024,12,33767,"Nuiqsut, AK",121.0,winter
+2024,12,35245,"Teller, AK",121.0,winter
+2024,12,35581,"Venetie, AK",119.0,winter
+2024,12,32615,"Kaltag, AK",116.0,winter
+2024,12,32709,"Akiachak, AK",116.0,winter
+2024,12,33863,"Old Harbor, AK",116.0,winter
+2024,12,34919,"St. Paul, AK",112.0,winter
+2024,12,34125,"Point Lay, AK",111.0,winter
+2024,12,31941,"Golovin, AK",110.0,winter
+2024,12,31615,"New Bedford/Fall River, MA",108.0,winter
+2024,12,35798,"Napakiak, AK",107.0,winter
+2024,12,30557,"Bradford, PA",105.0,winter
+2024,12,35085,"Sheldon Point, AK",103.0,winter
+2024,12,30241,"Akiak, AK",102.0,winter
+2024,12,32786,"Akutan, AK",98.0,winter
+2024,12,32737,"Manokotak, AK",96.0,winter
+2024,12,32721,"Larsen Bay, AK",85.0,winter
+2024,12,30783,"Bettles, AK",84.0,winter
+2024,12,34130,"Napaskiak, AK",83.0,winter
+2024,12,30349,"Arctic Village, AK",82.0,winter
+2024,12,31952,"Goodnews Bay, AK",75.0,winter
+2024,12,35282,"Tununak, AK",75.0,winter
+2024,12,33806,"Kobuk, AK",74.0,winter
+2024,12,31411,"Deering, AK",71.0,winter
+2024,12,33710,"Nightmute, AK",70.0,winter
+2024,12,31463,"Eagle, AK",68.0,winter
+2024,12,32235,"Hughes, AK",64.0,winter
+2024,12,30455,"Eagle Nest, NM",62.0,winter
+2024,12,32868,"Koyukuk, AK",62.0,winter
+2024,12,34288,"Pueblo, CO",60.0,winter
+2024,12,35725,"Beaver, AK",59.0,winter
+2024,12,33579,"Mekoryuk, AK",55.0,winter
+2024,12,31007,"Chalkyitsik, AK",54.0,winter
+2024,12,32671,"Koliganek, AK",53.0,winter
+2024,12,35709,"Wales, AK",53.0,winter
+2024,12,32841,"King Cove, AK",52.0,winter
+2024,12,33676,"Nikolai, AK",51.0,winter
+2024,12,32087,"Holy Cross, AK",50.0,winter
+2024,12,34559,"Rampart, AK",49.0,winter
+2024,12,33934,"Port Lions, AK",48.0,winter
+2024,12,35385,"Twin Hills, AK",47.0,winter
+2024,12,30925,"Chadron, NE",45.0,winter
+2024,12,32748,"Kokhanok, AK",43.0,winter
+2024,12,32772,"Ouzinkie, AK",43.0,winter
+2024,12,31406,"Platinum, AK",40.0,winter
+2024,12,35232,"Truckee, CA",39.0,winter
+2024,12,34967,"San Carlos, CA",36.0,winter
+2024,12,30243,"Akhiok, AK",31.0,winter
+2024,12,34273,"Port Heiden, AK",31.0,winter
+2024,12,35171,"Tatitlek, AK",31.0,winter
+2024,12,31053,"Clarks Point, AK",30.0,winter
+2024,12,34942,"Seldovia, AK",30.0,winter
+2024,12,32621,"Birch Creek, AK",28.0,winter
+2024,12,33547,"Mineral Wells, TX",27.0,winter
+2024,12,33715,"Nondalton, AK",25.0,winter
+2024,12,32720,"Levelock, AK",22.0,winter
+2024,12,32653,"Ekwok, AK",21.0,winter
+2024,12,35160,"Takotna, AK",21.0,winter
+2024,12,32784,"Perryville, AK",18.0,winter
+2024,12,32676,"Grayling, AK",17.0,winter
+2024,12,34863,"Skwentna, AK",17.0,winter
+2024,12,30996,"Chuathbaluk, AK",16.0,winter
+2024,12,32370,"Circle, AK",16.0,winter
+2024,12,32866,"Karluk, AK",15.0,winter
+2024,12,31501,"Chenega, AK",14.0,winter
+2024,12,32631,"Chignik, AK",14.0,winter
+2024,12,34816,"Shageluk, AK",14.0,winter
+2024,12,30056,"Kodiak Island, AK",13.0,winter
+2024,12,35061,"Stevens Village, AK",13.0,winter
+2024,12,30237,"Atka, AK",11.0,winter
+2024,12,31511,"Egegik, AK",11.0,winter
+2024,12,34119,"Pilot Point, AK",11.0,winter
+2024,12,33504,"Metlakatla, AK",10.0,winter
+2024,12,33016,"Lake Minchumina, AK",9.0,winter
+2024,12,32315,"Nikolski, AK",8.0,winter
+2024,12,35853,"South Naknek, AK",8.0,winter
+2024,12,36587,"Deer Harbor, WA",8.0,winter
+2024,12,30313,"Anvik, AK",7.0,winter
+2024,12,31028,"Crooked Creek, AK",7.0,winter
+2024,12,35012,"St. George Island, AK",7.0,winter
+2024,12,31214,"Coldfoot, AK",6.0,winter
+2024,12,31924,"Gulkana, AK",6.0,winter
+2024,12,33111,"Cape Lisburne, AK",6.0,winter
+2024,12,33249,"Atwater, CA",6.0,winter
+2024,12,34477,"Roche Harbor, WA",6.0,winter
+2024,12,33381,"Manley Hot Springs, AK",5.0,winter
+2024,12,34270,"Port Alexander, AK",5.0,winter
+2024,12,35278,"Tin City, AK",5.0,winter
+2024,12,31619,"Excursion Inlet, AK",4.0,winter
+2024,12,32141,"Healy, AK",4.0,winter
+2024,12,33415,"Minto, AK",4.0,winter
+2024,12,34880,"Sleetmute, AK",4.0,winter
+2024,12,33704,"Nelson Lagoon, AK",3.0,winter
+2024,12,35754,"Hyder, AK",3.0,winter
+2024,12,30961,"Craig, AK",2.0,winter
+2024,12,32253,"Hollis, AK",2.0,winter
+2024,12,32294,"Igiugig, AK",2.0,winter
+2024,12,32854,"West Point, AK",2.0,winter
+2024,12,32869,"Zachar Bay, AK",2.0,winter
+2024,12,34493,"Red Devil, AK",2.0,winter
+2024,12,34987,"Stony River, AK",2.0,winter
+2024,12,30938,"Central, AK",1.0,winter
+2024,12,31367,"Dora Bay, AK",1.0,winter
+2024,12,31484,"Edna Bay, AK",1.0,winter
+2024,12,32663,"False Pass, AK",1.0,winter
+2024,12,32815,"Thorne Bay, AK",1.0,winter
+2024,12,34268,"Port Alsworth, AK",1.0,winter
+2024,12,34276,"Port Armstrong, AK",1.0,winter
+2024,12,34464,"Ugashik, AK",1.0,winter
+2024,12,35091,"Seal Bay, AK",1.0,winter
+2025,1,31703,"New York, NY",3410167.0,winter
+2025,1,30194,"Dallas/Fort Worth, TX",3166912.0,winter
+2025,1,30397,"Atlanta, GA",3123098.0,winter
+2025,1,30977,"Chicago, IL",2745502.0,winter
+2025,1,30325,"Denver, CO",2712733.0,winter
+2025,1,32575,"Los Angeles, CA",2639311.0,winter
+2025,1,32467,"Miami, FL",2406991.0,winter
+2025,1,30852,"Washington, DC",2179520.0,winter
+2025,1,32457,"San Francisco, CA",1926921.0,winter
+2025,1,30466,"Phoenix, AZ",1906841.0,winter
+2025,1,32211,"Las Vegas, NV",1897912.0,winter
+2025,1,31454,"Orlando, FL",1887741.0,winter
+2025,1,31057,"Charlotte, NC",1806428.0,winter
+2025,1,31453,"Houston, TX",1662792.0,winter
+2025,1,30559,"Seattle, WA",1518109.0,winter
+2025,1,30721,"Boston, MA",1285780.0,winter
+2025,1,31650,"Minneapolis, MN",1071924.0,winter
+2025,1,31295,"Detroit, MI",994989.0,winter
+2025,1,34614,"Salt Lake City, UT",978352.0,winter
+2025,1,33195,"Tampa, FL",950756.0,winter
+2025,1,33570,"San Diego, CA",860038.0,winter
+2025,1,34100,"Philadelphia, PA",840489.0,winter
+2025,1,30693,"Nashville, TN",739878.0,winter
+2025,1,32134,"Honolulu, HI",699965.0,winter
+2025,1,30423,"Austin, TX",665887.0,winter
+2025,1,34057,"Portland, OR",572506.0,winter
+2025,1,34819,"San Juan, PR",514025.0,winter
+2025,1,34492,"Raleigh/Durham, NC",496122.0,winter
+2025,1,31714,"Fort Myers, FL",493989.0,winter
+2025,1,31123,"St. Louis, MO",468087.0,winter
+2025,1,33495,"New Orleans, LA",437337.0,winter
+2025,1,33192,"Sacramento, CA",435373.0,winter
+2025,1,34027,"West Palm Beach/Palm Beach, FL",374900.0,winter
+2025,1,33198,"Kansas City, MO",359633.0,winter
+2025,1,32337,"Indianapolis, IN",357674.0,winter
+2025,1,30647,"Cleveland, OH",353283.0,winter
+2025,1,33214,"San Antonio, TX",343560.0,winter
+2025,1,31066,"Columbus, OH",305981.0,winter
+2025,1,30198,"Pittsburgh, PA",300595.0,winter
+2025,1,33105,"Cincinnati, OH",281271.0,winter
+2025,1,33830,"Kahului, HI",254289.0,winter
+2025,1,31136,"Jacksonville, FL",252775.0,winter
+2025,1,30529,"Hartford, CT",223580.0,winter
+2025,1,33342,"Milwaukee, WI",190021.0,winter
+2025,1,30713,"Boise, ID",185858.0,winter
+2025,1,34986,"Sarasota/Bradenton, FL",179039.0,winter
+2025,1,33316,"Omaha, NE",178511.0,winter
+2025,1,30994,"Charleston, SC",171631.0,winter
+2025,1,34570,"Reno, NV",170053.0,winter
+2025,1,34524,"Richmond, VA",168607.0,winter
+2025,1,32758,"Kona, HI",166230.0,winter
+2025,1,33667,"Norfolk, VA",164164.0,winter
+2025,1,30436,"Tucson, AZ",158786.0,winter
+2025,1,30140,"Albuquerque, NM",157656.0,winter
+2025,1,30299,"Anchorage, AK",155707.0,winter
+2025,1,33244,"Memphis, TN",155323.0,winter
+2025,1,30792,"Buffalo, NY",154773.0,winter
+2025,1,34262,"Palm Springs, CA",152287.0,winter
+2025,1,33851,"Oklahoma City, OK",151671.0,winter
+2025,1,31986,"Grand Rapids, MI",148856.0,winter
+2025,1,31884,"Spokane, WA",143438.0,winter
+2025,1,33044,"Louisville, KY",139402.0,winter
+2025,1,32982,"Lihue, HI",135480.0,winter
+2025,1,30615,"El Paso, TX",127751.0,winter
+2025,1,31423,"Des Moines, IA",112768.0,winter
+2025,1,34685,"Savannah, GA",112007.0,winter
+2025,1,34761,"Sanford, FL",111740.0,winter
+2025,1,35412,"Knoxville, TN",111502.0,winter
+2025,1,30599,"Birmingham, AL",110381.0,winter
+2025,1,34653,"Tulsa, OK",105210.0,winter
+2025,1,34082,"Punta Gorda, FL",104175.0,winter
+2025,1,30257,"Albany, NY",101021.0,winter
+2025,1,35096,"Syracuse, NY",99189.0,winter
+2025,1,34576,"Rochester, NY",98175.0,winter
+2025,1,31871,"Greer, SC",96233.0,winter
+2025,1,30849,"Bozeman, MT",91635.0,winter
+2025,1,33728,"Pensacola, FL",88602.0,winter
+2025,1,33485,"Madison, WI",86284.0,winter
+2025,1,31834,"Fayetteville, AR",80115.0,winter
+2025,1,30189,"Colorado Springs, CO",78628.0,winter
+2025,1,31638,"Fresno, CA",76429.0,winter
+2025,1,34945,"Charlotte Amalie, VI",75228.0,winter
+2025,1,32600,"Little Rock, AR",74403.0,winter
+2025,1,31624,"Key West, FL",71340.0,winter
+2025,1,31135,"Myrtle Beach, SC",68624.0,winter
+2025,1,31995,"Greensboro/High Point, NC",68350.0,winter
+2025,1,30928,"Wichita, KS",61181.0,winter
+2025,1,31003,"Cedar Rapids/Iowa City, IA",59934.0,winter
+2025,1,30431,"Asheville, NC",59844.0,winter
+2025,1,34321,"Portland, ME",58742.0,winter
+2025,1,30255,"Huntsville, AL",58324.0,winter
+2025,1,31775,"Sioux Falls, SD",56491.0,winter
+2025,1,32402,"Hilo, HI",55956.0,winter
+2025,1,31603,"Eugene, OR",55737.0,winter
+2025,1,33158,"Midland/Odessa, TX",53422.0,winter
+2025,1,31503,"Eagle, CO",51285.0,winter
+2025,1,32070,"Harrisburg, PA",51205.0,winter
+2025,1,32945,"Lexington, KY",50589.0,winter
+2025,1,34689,"Santa Barbara, CA",50520.0,winter
+2025,1,32244,"New Haven, CT",49998.0,winter
+2025,1,32323,"Wilmington, NC",48965.0,winter
+2025,1,34783,"Springfield, MO",48290.0,winter
+2025,1,30785,"Burlington, VT",47552.0,winter
+2025,1,30868,"Columbia, SC",46672.0,winter
+2025,1,31267,"Dayton, OH",46119.0,winter
+2025,1,30408,"Appleton, WI",46079.0,winter
+2025,1,31637,"Fargo, ND",46049.0,winter
+2025,1,31504,"Valparaiso, FL",45633.0,winter
+2025,1,31517,"Fairbanks, AK",42978.0,winter
+2025,1,30372,"Aspen, CO",42764.0,winter
+2025,1,34489,"Bend/Redmond, OR",41934.0,winter
+2025,1,32441,"Jackson, WY",41810.0,winter
+2025,1,32448,"Jackson/Vicksburg, MS",41797.0,winter
+2025,1,34696,"South Bend, IN",41592.0,winter
+2025,1,33256,"Mission/McAllen/Edinburg, TX",41196.0,winter
+2025,1,30980,"Chattanooga, TN",41184.0,winter
+2025,1,34252,"Pasco/Kennewick/Richland, WA",40983.0,winter
+2025,1,32896,"Lubbock, TX",40488.0,winter
+2025,1,34314,"Provo, UT",39981.0,winter
+2025,1,31481,"Panama City, FL",37178.0,winter
+2025,1,34699,"Hayden, CO",35547.0,winter
+2025,1,31823,"Fort Wayne, IN",35135.0,winter
+2025,1,32206,"Harlingen/San Benito, TX",35026.0,winter
+2025,1,30620,"Billings, MT",33861.0,winter
+2025,1,33264,"Medford, OR",33299.0,winter
+2025,1,30732,"Aguadilla, PR",32552.0,winter
+2025,1,30135,"Allentown/Bethlehem/Easton, PA",32422.0,winter
+2025,1,35249,"Tallahassee, FL",31819.0,winter
+2025,1,33486,"Missoula, MT",31283.0,winter
+2025,1,31648,"Kalispell, MT",30558.0,winter
+2025,1,30781,"Baton Rouge, LA",28608.0,winter
+2025,1,34108,"Peoria, IL",27859.0,winter
+2025,1,30158,"Atlantic City, NJ",27624.0,winter
+2025,1,34574,"Roanoke, VA",27212.0,winter
+2025,1,34236,"San Luis Obispo, CA",26252.0,winter
+2025,1,34433,"Santa Rosa, CA",25889.0,winter
+2025,1,30279,"Amarillo, TX",25692.0,winter
+2025,1,31252,"Daytona Beach, FL",25687.0,winter
+2025,1,31721,"Flint, MI",25672.0,winter
+2025,1,30476,"Shreveport, LA",25605.0,winter
+2025,1,30990,"Charlottesville, VA",25563.0,winter
+2025,1,31140,"Corpus Christi, TX",25406.0,winter
+2025,1,34992,"Christiansted, VI",25256.0,winter
+2025,1,34457,"Rapid City, SD",25255.0,winter
+2025,1,33367,"Moline, IL",25238.0,winter
+2025,1,33502,"Montrose/Delta, CO",25029.0,winter
+2025,1,30562,"Mobile, AL",24396.0,winter
+2025,1,32280,"Idaho Falls, ID",24141.0,winter
+2025,1,30627,"Bismarck/Mandan, ND",23655.0,winter
+2025,1,31977,"Green Bay, WI",23541.0,winter
+2025,1,34004,"Everett, WA",23289.0,winter
+2025,1,31973,"Gulfport/Biloxi, MS",22618.0,winter
+2025,1,34922,"Monterey, CA",22267.0,winter
+2025,1,35380,"Traverse City, MI",22249.0,winter
+2025,1,31921,"Grand Junction, CO",20536.0,winter
+2025,1,32523,"Juneau, AK",20342.0,winter
+2025,1,31953,"Gainesville, FL",20307.0,winter
+2025,1,30581,"Bangor, ME",20193.0,winter
+2025,1,30208,"Augusta, GA",19846.0,winter
+2025,1,32951,"Lafayette, LA",19514.0,winter
+2025,1,33360,"Melbourne, FL",19469.0,winter
+2025,1,30285,"Durango, CO",18682.0,winter
+2025,1,30434,"Scranton/Wilkes-Barre, PA",16683.0,winter
+2025,1,30666,"Bellingham, WA",15711.0,winter
+2025,1,30561,"Bakersfield, CA",15634.0,winter
+2025,1,35323,"Bristol/Johnson City/Kingsport, TN",15203.0,winter
+2025,1,31612,"Evansville, IN",14572.0,winter
+2025,1,33277,"Montgomery, AL",14452.0,winter
+2025,1,33304,"Minot, ND",14040.0,winter
+2025,1,34794,"St. George, UT",13866.0,winter
+2025,1,32544,"Concord, NC",13659.0,winter
+2025,1,31146,"Charleston/Dunbar, WV",13525.0,winter
+2025,1,31895,"Great Falls, MT",13412.0,winter
+2025,1,34674,"Santa Fe, NM",12792.0,winter
+2025,1,35041,"Sun Valley/Hailey/Ketchum, ID",12489.0,winter
+2025,1,31641,"Fayetteville, NC",12354.0,winter
+2025,1,30685,"Bloomington/Normal, IL",11813.0,winter
+2025,1,33795,"Jacksonville/Camp Lejeune, NC",11723.0,winter
+2025,1,35356,"Trenton, NJ",11468.0,winter
+2025,1,35628,"Vero Beach, FL",11308.0,winter
+2025,1,32320,"Wilmington, DE",11010.0,winter
+2025,1,34512,"Rockford, IL",10748.0,winter
+2025,1,30113,"Bethel, AK",10636.0,winter
+2025,1,33038,"Laredo, TX",10385.0,winter
+2025,1,33029,"Lincoln, NE",9931.0,winter
+2025,1,30747,"Brownsville, TX",9711.0,winter
+2025,1,30157,"Arcata/Eureka, CA",9637.0,winter
+2025,1,31337,"Duluth, MN",9601.0,winter
+2025,1,34711,"State College, PA",9342.0,winter
+2025,1,34025,"Plattsburgh, NY",9323.0,winter
+2025,1,32016,"Guam, TT",9024.0,winter
+2025,1,30676,"Belleville, IL",8997.0,winter
+2025,1,31898,"Grand Forks, ND",8535.0,winter
+2025,1,32884,"Lansing, MI",8366.0,winter
+2025,1,32012,"Gunnison, CO",7942.0,winter
+2025,1,33184,"Saginaw/Bay City/Midland, MI",7857.0,winter
+2025,1,32389,"Williston, ND",7785.0,winter
+2025,1,32547,"Rochester, MN",7434.0,winter
+2025,1,32156,"Helena, MT",7390.0,winter
+2025,1,33785,"Yuma, AZ",7325.0,winter
+2025,1,31401,"Ketchikan, AK",7311.0,winter
+2025,1,33933,"Worcester, MA",7262.0,winter
+2025,1,30136,"Abilene, TX",7207.0,winter
+2025,1,31122,"Casper, WY",7151.0,winter
+2025,1,33377,"Monroe, LA",7044.0,winter
+2025,1,32474,"Columbia, MO",6925.0,winter
+2025,1,31982,"Killeen, TX",6893.0,winter
+2025,1,31537,"Elmira/Corning, NY",6754.0,winter
+2025,1,34254,"Ponce, PR",6604.0,winter
+2025,1,31067,"Champaign/Urbana, IL",6407.0,winter
+2025,1,31617,"New Bern/Morehead/Beaufort, NC",6384.0,winter
+2025,1,33290,"Manhattan/Ft. Riley, KS",6294.0,winter
+2025,1,30469,"Kalamazoo, MI",6161.0,winter
+2025,1,34955,"Saipan, TT",6128.0,winter
+2025,1,31980,"Grand Island, NE",6096.0,winter
+2025,1,34303,"Pullman, WA",5999.0,winter
+2025,1,31205,"Lake Charles, LA",5974.0,winter
+2025,1,32397,"Ithaca/Cortland, NY",5939.0,winter
+2025,1,30185,"Alexandria, LA",5839.0,winter
+2025,1,33139,"Lynchburg, VA",5767.0,winter
+2025,1,34259,"Portsmouth, NH",5619.0,winter
+2025,1,30070,"Kodiak, AK",5465.0,winter
+2025,1,33792,"Redding, CA",5412.0,winter
+2025,1,33347,"Hoolehua, HI",5375.0,winter
+2025,1,30073,"Deadhorse, AK",5258.0,winter
+2025,1,31577,"Erie, PA",5237.0,winter
+2025,1,34828,"Sitka, AK",5142.0,winter
+2025,1,30424,"Mosinee, WI",4904.0,winter
+2025,1,32223,"Ashland, WV",4763.0,winter
+2025,1,34716,"Stockton, CA",4709.0,winter
+2025,1,34704,"Salisbury, MD",4644.0,winter
+2025,1,35165,"Toledo, OH",4633.0,winter
+2025,1,33873,"Nome, AK",4584.0,winter
+2025,1,33127,"Lewiston, ID",4311.0,winter
+2025,1,35626,"Vieques, PR",4225.0,winter
+2025,1,31555,"Kenai, AK",4189.0,winter
+2025,1,31695,"Flagstaff, AZ",4179.0,winter
+2025,1,31049,"College Station/Bryan, TX",4168.0,winter
+2025,1,34952,"Springfield, IL",4155.0,winter
+2025,1,32265,"Niagara Falls, NY",3927.0,winter
+2025,1,34842,"San Angelo, TX",3832.0,winter
+2025,1,31778,"Fort Smith, AR",3829.0,winter
+2025,1,36101,"Yakima, WA",3770.0,winter
+2025,1,33970,"Kotzebue, AK",3668.0,winter
+2025,1,32556,"St. Cloud, MN",3655.0,winter
+2025,1,30155,"Waco, TX",3652.0,winter
+2025,1,31470,"Wenatchee, WA",3641.0,winter
+2025,1,34588,"Roswell, NM",3636.0,winter
+2025,1,35550,"Valdosta, GA",3553.0,winter
+2025,1,30107,"Barrow, AK",3499.0,winter
+2025,1,35411,"Tyler, TX",3471.0,winter
+2025,1,30894,"Columbus, MS",3424.0,winter
+2025,1,31150,"Columbus, GA",3420.0,winter
+2025,1,31308,"Dothan, AL",3360.0,winter
+2025,1,32124,"Hilton Head, SC",3340.0,winter
+2025,1,30731,"Brunswick, GA",3282.0,winter
+2025,1,32891,"Lawton/Fort Sill, OK",3228.0,winter
+2025,1,34092,"Greenville, NC",3212.0,winter
+2025,1,31445,"Unalaska, AK",2989.0,winter
+2025,1,33076,"La Crosse, WI",2957.0,winter
+2025,1,30275,"Walla Walla, WA",2885.0,winter
+2025,1,33034,"Lanai, HI",2810.0,winter
+2025,1,31867,"Garden City, KS",2802.0,winter
+2025,1,32898,"Latrobe, PA",2784.0,winter
+2025,1,33459,"Marquette, MI",2664.0,winter
+2025,1,35389,"Twin Falls, ID",2574.0,winter
+2025,1,35074,"Stillwater, OK",2568.0,winter
+2025,1,32119,"Hagerstown, MD",2539.0,winter
+2025,1,35048,"Sioux City, IA",2480.0,winter
+2025,1,35215,"Tinian, TT",2405.0,winter
+2025,1,35401,"Texarkana, AR",2403.0,winter
+2025,1,31865,"Gillette, WY",2375.0,winter
+2025,1,31097,"Cody, WY",2371.0,winter
+2025,1,31233,"Cheyenne, WY",2246.0,winter
+2025,1,31905,"Longview, TX",2207.0,winter
+2025,1,30617,"Bishop, CA",2177.0,winter
+2025,1,30728,"Beaumont/Port Arthur, TX",2164.0,winter
+2025,1,31126,"Culebra, PR",2153.0,winter
+2025,1,30146,"Albany, GA",2126.0,winter
+2025,1,31076,"Hancock/Houghton, MI",2092.0,winter
+2025,1,34222,"Pago Pago, TT",2092.0,winter
+2025,1,34960,"Wichita Falls, TX",2065.0,winter
+2025,1,34812,"Sheridan, WY",2050.0,winter
+2025,1,32177,"Hobbs, NM",2026.0,winter
+2025,1,31027,"Clarksburg/Fairmont, WV",2009.0,winter
+2025,1,34237,"Prescott, AZ",1997.0,winter
+2025,1,31468,"Kearney, NE",1986.0,winter
+2025,1,34543,"Rock Springs, WY",1978.0,winter
+2025,1,33743,"Ceiba, PR",1960.0,winter
+2025,1,30361,"Watertown, NY",1954.0,winter
+2025,1,31315,"Dickinson, ND",1945.0,winter
+2025,1,30631,"Bemidji, MN",1938.0,winter
+2025,1,31336,"Dillingham, AK",1938.0,winter
+2025,1,34534,"Riverton/Lander, WY",1915.0,winter
+2025,1,34113,"Pocatello, ID",1825.0,winter
+2025,1,30141,"Aberdeen, SD",1810.0,winter
+2025,1,33241,"Meridian, MS",1788.0,winter
+2025,1,31699,"Florence, SC",1777.0,winter
+2025,1,32511,"Joplin, MO",1776.0,winter
+2025,1,34877,"Salina, KS",1613.0,winter
+2025,1,31013,"Sault Ste. Marie, MI",1593.0,winter
+2025,1,30779,"Butte, MT",1569.0,winter
+2025,1,30009,"Homer, AK",1495.0,winter
+2025,1,34231,"Presque Isle/Houlton, ME",1453.0,winter
+2025,1,32255,"Hays, KS",1450.0,winter
+2025,1,31471,"Eau Claire, WI",1424.0,winter
+2025,1,32888,"Laramie, WY",1351.0,winter
+2025,1,32559,"Johnstown, PA",1265.0,winter
+2025,1,34871,"Salem, OR",1258.0,winter
+2025,1,30154,"Nantucket, MA",1244.0,winter
+2025,1,34691,"San Bernardino, CA",1197.0,winter
+2025,1,34520,"Rhinelander, WI",1173.0,winter
+2025,1,34109,"Hattiesburg/Laurel, MS",1152.0,winter
+2025,1,32335,"Iron Mountain/Kingsfd, MI",1146.0,winter
+2025,1,33032,"Lancaster, PA",1114.0,winter
+2025,1,35177,"Telluride, CO",1103.0,winter
+2025,1,31197,"Clovis, NM",1087.0,winter
+2025,1,32131,"Ogden, UT",1083.0,winter
+2025,1,30558,"Scottsbluff, NE",1075.0,winter
+2025,1,32899,"North Platte, NE",1071.0,winter
+2025,1,31587,"Escanaba, MI",1063.0,winter
+2025,1,30613,"Block Island, RI",1056.0,winter
+2025,1,34256,"Petersburg, AK",1051.0,winter
+2025,1,35374,"Tupelo, MS",1040.0,winter
+2025,1,34120,"Pierre, SD",1035.0,winter
+2025,1,30577,"Binghamton, NY",1031.0,winter
+2025,1,35855,"Westerly, RI",1031.0,winter
+2025,1,30268,"Waterloo, IA",1023.0,winter
+2025,1,31525,"Elko, NV",1019.0,winter
+2025,1,35841,"Wrangell, AK",1018.0,winter
+2025,1,35582,"Vernal, UT",963.0,winter
+2025,1,34905,"Santa Maria, CA",934.0,winter
+2025,1,33155,"Macon, GA",932.0,winter
+2025,1,35138,"Fort Leonard Wood, MO",927.0,winter
+2025,1,30409,"Watertown, SD",905.0,winter
+2025,1,34006,"Paducah, KY",901.0,winter
+2025,1,35569,"Victoria, TX",898.0,winter
+2025,1,33964,"North Bend/Coos Bay, OR",894.0,winter
+2025,1,30272,"Alamosa, CO",872.0,winter
+2025,1,31288,"Decatur, IL",868.0,winter
+2025,1,30913,"Cordova, AK",850.0,winter
+2025,1,32519,"Jamestown, ND",836.0,winter
+2025,1,33543,"Marion/Herrin, IL",829.0,winter
+2025,1,30739,"Brainerd, MN",808.0,winter
+2025,1,31844,"Galena, AK",792.0,winter
+2025,1,30322,"Altoona, PA",757.0,winter
+2025,1,35381,"Thief River Falls, MN",754.0,winter
+2025,1,30918,"Cedar City, UT",745.0,winter
+2025,1,32932,"Lebanon-Hanover, NH",742.0,winter
+2025,1,33348,"Jackson, TN",726.0,winter
+2025,1,34582,"Rota, TT",716.0,winter
+2025,1,30967,"Cape Girardeau, MO",707.0,winter
+2025,1,32343,"International Falls, MN",705.0,winter
+2025,1,33282,"Morgantown, WV",699.0,winter
+2025,1,33176,"Mayaguez, PR",690.0,winter
+2025,1,33388,"Mammoth Lakes, CA",685.0,winter
+2025,1,34150,"Pellston, MI",684.0,winter
+2025,1,32902,"Liberal, KS",683.0,winter
+2025,1,31283,"Dodge City, KS",661.0,winter
+2025,1,31447,"Devils Lake, ND",638.0,winter
+2025,1,32129,"Hibbing, MN",614.0,winter
+2025,1,34802,"Staunton, VA",610.0,winter
+2025,1,30007,"Klawock, AK",594.0,winter
+2025,1,31725,"Fort Dodge, IA",587.0,winter
+2025,1,30950,"Cortez, CO",581.0,winter
+2025,1,30930,"Crescent City, CA",580.0,winter
+2025,1,30333,"Alpena, MI",577.0,winter
+2025,1,30245,"King Salmon, AK",572.0,winter
+2025,1,33484,"Muscle Shoals, AL",563.0,winter
+2025,1,31550,"Emmonak, AK",558.0,winter
+2025,1,33211,"Mason City, IA",543.0,winter
+2025,1,33983,"Owensboro, KY",537.0,winter
+2025,1,34943,"Show Low, AZ",537.0,winter
+2025,1,34054,"Pendleton, OR",534.0,winter
+2025,1,32250,"Hyannis, MA",530.0,winter
+2025,1,34745,"Sidney, MT",516.0,winter
+2025,1,35051,"Silver City/Hurley, NM",501.0,winter
+2025,1,31931,"Greenville, MS",495.0,winter
+2025,1,32375,"Kirksville, MO",487.0,winter
+2025,1,33832,"Ogdensburg, NY",484.0,winter
+2025,1,31646,"Friday Harbor, WA",468.0,winter
+2025,1,31274,"Dubuque, IA",434.0,winter
+2025,1,33541,"Martha's Vineyard, MA",432.0,winter
+2025,1,31092,"Moab, UT",401.0,winter
+2025,1,32412,"Ironwood, MI",395.0,winter
+2025,1,33194,"Merced, CA",389.0,winter
+2025,1,31588,"Eastsound, WA",386.0,winter
+2025,1,31833,"Fort Yukon, AK",386.0,winter
+2025,1,31041,"Carlsbad, CA",378.0,winter
+2025,1,30589,"Bar Harbor, ME",370.0,winter
+2025,1,33344,"Muskegon, MI",356.0,winter
+2025,1,35478,"Unalakleet, AK",347.0,winter
+2025,1,34081,"Page, AZ",346.0,winter
+2025,1,33109,"Kalaupapa, HI",340.0,winter
+2025,1,33490,"Massena, NY",340.0,winter
+2025,1,32853,"Quinhagak, AK",338.0,winter
+2025,1,34131,"Parkersburg, WV",336.0,winter
+2025,1,32779,"Kipnuk, AK",331.0,winter
+2025,1,34539,"Rockland, ME",329.0,winter
+2025,1,34648,"Rutland, VT",319.0,winter
+2025,1,31085,"Carlsbad, NM",318.0,winter
+2025,1,32195,"Hooper Bay, AK",315.0,winter
+2025,1,35579,"Valdez, AK",311.0,winter
+2025,1,33121,"Lewisburg, WV",309.0,winter
+2025,1,32878,"Lafayette, IN",307.0,winter
+2025,1,30221,"Alliance, NE",304.0,winter
+2025,1,30414,"Augusta/Waterville, ME",300.0,winter
+2025,1,33182,"Manistee/Ludington, MI",292.0,winter
+2025,1,30225,"Wainwright, AK",287.0,winter
+2025,1,34875,"Saranac Lake/Lake Placid, NY",287.0,winter
+2025,1,35991,"Yakutat, AK",280.0,winter
+2025,1,32214,"Huslia, AK",273.0,winter
+2025,1,35554,"Chevak, AK",265.0,winter
+2025,1,34102,"Point Hope, AK",262.0,winter
+2025,1,32018,"Gallup, NM",259.0,winter
+2025,1,30654,"Beckley, WV",257.0,winter
+2025,1,32245,"Havre, MT",253.0,winter
+2025,1,34805,"Shishmaref, AK",253.0,winter
+2025,1,32171,"Hoonah, AK",251.0,winter
+2025,1,34738,"Sandpoint, AK",240.0,winter
+2025,1,33520,"Kamuela, HI",239.0,winter
+2025,1,30247,"Anaktuvuk Pass, AK",235.0,winter
+2025,1,31441,"DuBois, PA",224.0,winter
+2025,1,32363,"El Centro, CA",224.0,winter
+2025,1,31402,"Haines, AK",223.0,winter
+2025,1,31908,"Glasgow, MT",218.0,winter
+2025,1,33862,"Wolf Point, MT",213.0,winter
+2025,1,35293,"Togiak, AK",213.0,winter
+2025,1,35862,"Tuntutuliak, AK",212.0,winter
+2025,1,30775,"Barter Island, AK",208.0,winter
+2025,1,34234,"Pilot Station, AK",204.0,winter
+2025,1,32769,"Kotlik, AK",203.0,winter
+2025,1,35454,"Quincy, IL",203.0,winter
+2025,1,32807,"St. Mary's, AK",202.0,winter
+2025,1,31227,"Chefornak, AK",201.0,winter
+2025,1,30744,"Burlington, IA",198.0,winter
+2025,1,35049,"Savoonga, AK",196.0,winter
+2025,1,30020,"Selawik, AK",195.0,winter
+2025,1,33942,"Noorvik, AK",195.0,winter
+2025,1,33200,"McCook, NE",194.0,winter
+2025,1,34718,"Scammon Bay, AK",190.0,winter
+2025,1,31845,"Gambell, AK",185.0,winter
+2025,1,32207,"Harrison, AR",185.0,winter
+2025,1,32365,"Williamsport, PA",185.0,winter
+2025,1,30640,"Buckland, AK",184.0,winter
+2025,1,30416,"Alakanuk, AK",183.0,winter
+2025,1,31492,"Eek, AK",182.0,winter
+2025,1,32610,"Kake, AK",182.0,winter
+2025,1,31464,"Noatak, AK",180.0,winter
+2025,1,33369,"Marshall, AK",174.0,winter
+2025,1,30557,"Bradford, PA",167.0,winter
+2025,1,33196,"McGrath, AK",160.0,winter
+2025,1,33894,"Toksook, AK",160.0,winter
+2025,1,35721,"Stebbins, AK",159.0,winter
+2025,1,33767,"Nuiqsut, AK",158.0,winter
+2025,1,33768,"Nulato, AK",158.0,winter
+2025,1,31879,"Glendive, MT",156.0,winter
+2025,1,30204,"Angoon, AK",151.0,winter
+2025,1,32649,"Nanwalek, AK",151.0,winter
+2025,1,31531,"El Dorado, AR",150.0,winter
+2025,1,32708,"Kongiganak, AK",150.0,winter
+2025,1,32851,"Kwigillingok, AK",149.0,winter
+2025,1,35124,"Tanana, AK",146.0,winter
+2025,1,32831,"Kasigluk, AK",144.0,winter
+2025,1,32190,"Hot Springs, AR",141.0,winter
+2025,1,32822,"Brevig Mission, AK",141.0,winter
+2025,1,33434,"Mountain Village, AK",140.0,winter
+2025,1,36553,"Akun, AK",139.0,winter
+2025,1,30165,"Adak Island, AK",138.0,winter
+2025,1,34895,"St. Michael, AK",138.0,winter
+2025,1,34088,"Port Graham, AK",136.0,winter
+2025,1,33072,"Las Cruces, NM",133.0,winter
+2025,1,34474,"Ruby, AK",133.0,winter
+2025,1,34125,"Point Lay, AK",132.0,winter
+2025,1,30011,"Peach Springs, AZ",130.0,winter
+2025,1,33770,"Nunapitchuk, AK",130.0,winter
+2025,1,30661,"Boulder City, NV",129.0,winter
+2025,1,34856,"Shaktoolik, AK",129.0,winter
+2025,1,32737,"Manokotak, AK",128.0,winter
+2025,1,34919,"St. Paul, AK",127.0,winter
+2025,1,32268,"Kiana, AK",126.0,winter
+2025,1,32709,"Akiachak, AK",125.0,winter
+2025,1,32755,"New Stuyahok, AK",124.0,winter
+2025,1,34627,"Russian Mission, AK",124.0,winter
+2025,1,30304,"Aniak, AK",123.0,winter
+2025,1,32844,"Kivalina, AK",123.0,winter
+2025,1,35282,"Tununak, AK",122.0,winter
+2025,1,30405,"Atmautluak, AK",121.0,winter
+2025,1,32704,"Koyuk, AK",120.0,winter
+2025,1,32719,"Kalskag, AK",117.0,winter
+2025,1,31535,"Elim, AK",115.0,winter
+2025,1,30396,"Atqasuk, AK",114.0,winter
+2025,1,32174,"Hana, HI",113.0,winter
+2025,1,35887,"Newtok, AK",113.0,winter
+2025,1,31615,"New Bedford/Fall River, MA",112.0,winter
+2025,1,30184,"Allakaket, AK",111.0,winter
+2025,1,35245,"Teller, AK",107.0,winter
+2025,1,30349,"Arctic Village, AK",103.0,winter
+2025,1,34797,"Skagway, AK",103.0,winter
+2025,1,31997,"Gustavus, AK",101.0,winter
+2025,1,32855,"Kwethluk, AK",101.0,winter
+2025,1,33863,"Old Harbor, AK",101.0,winter
+2025,1,35257,"Tuluksak, AK",100.0,winter
+2025,1,34804,"Shungnak, AK",99.0,winter
+2025,1,32615,"Kaltag, AK",98.0,winter
+2025,1,35581,"Venetie, AK",98.0,winter
+2025,1,32492,"Kapalua, HI",92.0,winter
+2025,1,30241,"Akiak, AK",89.0,winter
+2025,1,32786,"Akutan, AK",89.0,winter
+2025,1,33579,"Mekoryuk, AK",89.0,winter
+2025,1,35794,"White Mountain, AK",89.0,winter
+2025,1,31941,"Golovin, AK",85.0,winter
+2025,1,35085,"Sheldon Point, AK",84.0,winter
+2025,1,30082,"Cold Bay, AK",83.0,winter
+2025,1,30139,"Ambler, AK",78.0,winter
+2025,1,30783,"Bettles, AK",73.0,winter
+2025,1,32671,"Koliganek, AK",73.0,winter
+2025,1,31007,"Chalkyitsik, AK",68.0,winter
+2025,1,32235,"Hughes, AK",68.0,winter
+2025,1,31411,"Deering, AK",67.0,winter
+2025,1,32772,"Ouzinkie, AK",67.0,winter
+2025,1,32455,"Jonesboro, AR",66.0,winter
+2025,1,31952,"Goodnews Bay, AK",65.0,winter
+2025,1,33676,"Nikolai, AK",65.0,winter
+2025,1,35798,"Napakiak, AK",63.0,winter
+2025,1,33934,"Port Lions, AK",62.0,winter
+2025,1,34673,"Safford, AZ",58.0,winter
+2025,1,31053,"Clarks Point, AK",56.0,winter
+2025,1,32868,"Koyukuk, AK",55.0,winter
+2025,1,33710,"Nightmute, AK",55.0,winter
+2025,1,31463,"Eagle, AK",51.0,winter
+2025,1,35725,"Beaver, AK",49.0,winter
+2025,1,35709,"Wales, AK",43.0,winter
+2025,1,30455,"Eagle Nest, NM",42.0,winter
+2025,1,31406,"Platinum, AK",41.0,winter
+2025,1,33806,"Kobuk, AK",41.0,winter
+2025,1,34130,"Napaskiak, AK",38.0,winter
+2025,1,32631,"Chignik, AK",34.0,winter
+2025,1,32720,"Levelock, AK",34.0,winter
+2025,1,35385,"Twin Hills, AK",34.0,winter
+2025,1,34288,"Pueblo, CO",30.0,winter
+2025,1,34942,"Seldovia, AK",29.0,winter
+2025,1,31501,"Chenega, AK",27.0,winter
+2025,1,30243,"Akhiok, AK",25.0,winter
+2025,1,32653,"Ekwok, AK",25.0,winter
+2025,1,34273,"Port Heiden, AK",25.0,winter
+2025,1,34559,"Rampart, AK",22.0,winter
+2025,1,32370,"Circle, AK",21.0,winter
+2025,1,33504,"Metlakatla, AK",21.0,winter
+2025,1,35171,"Tatitlek, AK",21.0,winter
+2025,1,32721,"Larsen Bay, AK",20.0,winter
+2025,1,32841,"King Cove, AK",19.0,winter
+2025,1,32866,"Karluk, AK",18.0,winter
+2025,1,35160,"Takotna, AK",18.0,winter
+2025,1,35012,"St. George Island, AK",17.0,winter
+2025,1,30925,"Chadron, NE",16.0,winter
+2025,1,32784,"Perryville, AK",16.0,winter
+2025,1,32621,"Birch Creek, AK",15.0,winter
+2025,1,32676,"Grayling, AK",15.0,winter
+2025,1,35061,"Stevens Village, AK",15.0,winter
+2025,1,32087,"Holy Cross, AK",12.0,winter
+2025,1,33381,"Manley Hot Springs, AK",12.0,winter
+2025,1,30056,"Kodiak Island, AK",11.0,winter
+2025,1,30237,"Atka, AK",11.0,winter
+2025,1,34816,"Shageluk, AK",11.0,winter
+2025,1,32315,"Nikolski, AK",10.0,winter
+2025,1,31511,"Egegik, AK",9.0,winter
+2025,1,31028,"Crooked Creek, AK",8.0,winter
+2025,1,34062,"Pelican, AK",8.0,winter
+2025,1,34967,"San Carlos, CA",8.0,winter
+2025,1,35278,"Tin City, AK",8.0,winter
+2025,1,33415,"Minto, AK",7.0,winter
+2025,1,35231,"Tenakee, AK",7.0,winter
+2025,1,30996,"Chuathbaluk, AK",6.0,winter
+2025,1,33016,"Lake Minchumina, AK",6.0,winter
+2025,1,30313,"Anvik, AK",5.0,winter
+2025,1,31214,"Coldfoot, AK",5.0,winter
+2025,1,32253,"Hollis, AK",5.0,winter
+2025,1,34270,"Port Alexander, AK",5.0,winter
+2025,1,32705,"Kitoi Bay, AK",4.0,winter
+2025,1,33111,"Cape Lisburne, AK",4.0,winter
+2025,1,35236,"Tok, AK",4.0,winter
+2025,1,35446,"Uganik, AK",4.0,winter
+2025,1,30938,"Central, AK",3.0,winter
+2025,1,31245,"Chisana, AK",3.0,winter
+2025,1,31924,"Gulkana, AK",3.0,winter
+2025,1,33704,"Nelson Lagoon, AK",3.0,winter
+2025,1,34880,"Sleetmute, AK",3.0,winter
+2025,1,34987,"Stony River, AK",3.0,winter
+2025,1,35232,"Truckee, CA",3.0,winter
+2025,1,31036,"Chicken, AK",2.0,winter
+2025,1,32141,"Healy, AK",2.0,winter
+2025,1,32294,"Igiugig, AK",2.0,winter
+2025,1,34119,"Pilot Point, AK",2.0,winter
+2025,1,34863,"Skwentna, AK",2.0,winter
+2025,1,30278,"Lazy Bay, AK",1.0,winter
+2025,1,31619,"Excursion Inlet, AK",1.0,winter
+2025,1,32663,"False Pass, AK",1.0,winter
+2025,1,32815,"Thorne Bay, AK",1.0,winter
+2025,1,32854,"West Point, AK",1.0,winter
+2025,1,32869,"Zachar Bay, AK",1.0,winter
+2025,1,34276,"Port Armstrong, AK",1.0,winter
+2025,1,34464,"Ugashik, AK",1.0,winter
+2025,1,35250,"Tatalina, AK",1.0,winter
+2025,1,35853,"South Naknek, AK",1.0,winter
+2025,6,30977,"Chicago, IL",4035115.0,summer
+2025,6,30397,"Atlanta, GA",4008857.0,summer
+2025,6,30194,"Dallas/Fort Worth, TX",3987175.0,summer
+2025,6,31703,"New York, NY",3942324.0,summer
+2025,6,30325,"Denver, CO",3497298.0,summer
+2025,6,32575,"Los Angeles, CA",3479532.0,summer
+2025,6,30852,"Washington, DC",2911156.0,summer
+2025,6,32457,"San Francisco, CA",2363571.0,summer
+2025,6,30559,"Seattle, WA",2188344.0,summer
+2025,6,32467,"Miami, FL",2160268.0,summer
+2025,6,32211,"Las Vegas, NV",2109641.0,summer
+2025,6,31057,"Charlotte, NC",2073754.0,summer
+2025,6,31454,"Orlando, FL",2030798.0,summer
+2025,6,30466,"Phoenix, AZ",1984376.0,summer
+2025,6,31453,"Houston, TX",1911739.0,summer
+2025,6,30721,"Boston, MA",1756402.0,summer
+2025,6,31650,"Minneapolis, MN",1524291.0,summer
+2025,6,31295,"Detroit, MI",1346682.0,summer
+2025,6,34100,"Philadelphia, PA",1175518.0,summer
+2025,6,34614,"Salt Lake City, UT",1146328.0,summer
+2025,6,30693,"Nashville, TN",1135252.0,summer
+2025,6,33570,"San Diego, CA",1097105.0,summer
+2025,6,33195,"Tampa, FL",1083255.0,summer
+2025,6,30423,"Austin, TX",914795.0,summer
+2025,6,34057,"Portland, OR",838830.0,summer
+2025,6,32134,"Honolulu, HI",756195.0,summer
+2025,6,31123,"St. Louis, MO",688641.0,summer
+2025,6,34492,"Raleigh/Durham, NC",661936.0,summer
+2025,6,33192,"Sacramento, CA",603073.0,summer
+2025,6,34819,"San Juan, PR",540027.0,summer
+2025,6,33198,"Kansas City, MO",538267.0,summer
+2025,6,33495,"New Orleans, LA",490380.0,summer
+2025,6,30647,"Cleveland, OH",489912.0,summer
+2025,6,32337,"Indianapolis, IN",471475.0,summer
+2025,6,33214,"San Antonio, TX",441286.0,summer
+2025,6,30198,"Pittsburgh, PA",437045.0,summer
+2025,6,31066,"Columbus, OH",426142.0,summer
+2025,6,33105,"Cincinnati, OH",407180.0,summer
+2025,6,31136,"Jacksonville, FL",333403.0,summer
+2025,6,31714,"Fort Myers, FL",332314.0,summer
+2025,6,30299,"Anchorage, AK",318476.0,summer
+2025,6,33830,"Kahului, HI",309392.0,summer
+2025,6,30994,"Charleston, SC",300237.0,summer
+2025,6,30529,"Hartford, CT",284408.0,summer
+2025,6,34027,"West Palm Beach/Palm Beach, FL",283608.0,summer
+2025,6,33342,"Milwaukee, WI",261272.0,summer
+2025,6,33316,"Omaha, NE",261252.0,summer
+2025,6,33667,"Norfolk, VA",255610.0,summer
+2025,6,30140,"Albuquerque, NM",244378.0,summer
+2025,6,30713,"Boise, ID",242996.0,summer
+2025,6,30792,"Buffalo, NY",225810.0,summer
+2025,6,34524,"Richmond, VA",224324.0,summer
+2025,6,33244,"Memphis, TN",218384.0,summer
+2025,6,33044,"Louisville, KY",217471.0,summer
+2025,6,34570,"Reno, NV",216217.0,summer
+2025,6,33851,"Oklahoma City, OK",216047.0,summer
+2025,6,31135,"Myrtle Beach, SC",215303.0,summer
+2025,6,31884,"Spokane, WA",198430.0,summer
+2025,6,34685,"Savannah, GA",198375.0,summer
+2025,6,31986,"Grand Rapids, MI",195269.0,summer
+2025,6,32758,"Kona, HI",181966.0,summer
+2025,6,32982,"Lihue, HI",172519.0,summer
+2025,6,35412,"Knoxville, TN",171513.0,summer
+2025,6,30615,"El Paso, TX",171485.0,summer
+2025,6,34986,"Sarasota/Bradenton, FL",163618.0,summer
+2025,6,30849,"Bozeman, MT",160327.0,summer
+2025,6,31504,"Valparaiso, FL",158870.0,summer
+2025,6,34653,"Tulsa, OK",158629.0,summer
+2025,6,34761,"Sanford, FL",158171.0,summer
+2025,6,33728,"Pensacola, FL",156478.0,summer
+2025,6,31423,"Des Moines, IA",153783.0,summer
+2025,6,30599,"Birmingham, AL",148203.0,summer
+2025,6,34321,"Portland, ME",143291.0,summer
+2025,6,30257,"Albany, NY",141147.0,summer
+2025,6,31871,"Greer, SC",137310.0,summer
+2025,6,30436,"Tucson, AZ",135118.0,summer
+2025,6,31834,"Fayetteville, AR",121230.0,summer
+2025,6,35096,"Syracuse, NY",118156.0,summer
+2025,6,30189,"Colorado Springs, CO",117632.0,summer
+2025,6,34576,"Rochester, NY",115934.0,summer
+2025,6,30431,"Asheville, NC",115188.0,summer
+2025,6,31638,"Fresno, CA",112689.0,summer
+2025,6,31481,"Panama City, FL",110885.0,summer
+2025,6,32600,"Little Rock, AR",108420.0,summer
+2025,6,33485,"Madison, WI",99141.0,summer
+2025,6,32323,"Wilmington, NC",92485.0,summer
+2025,6,31995,"Greensboro/High Point, NC",89649.0,summer
+2025,6,30928,"Wichita, KS",88584.0,summer
+2025,6,34082,"Punta Gorda, FL",87194.0,summer
+2025,6,31603,"Eugene, OR",81384.0,summer
+2025,6,30255,"Huntsville, AL",78784.0,summer
+2025,6,34945,"Charlotte Amalie, VI",78245.0,summer
+2025,6,34783,"Springfield, MO",77562.0,summer
+2025,6,32945,"Lexington, KY",77112.0,summer
+2025,6,32070,"Harrisburg, PA",74002.0,summer
+2025,6,31003,"Cedar Rapids/Iowa City, IA",71884.0,summer
+2025,6,32441,"Jackson, WY",71771.0,summer
+2025,6,33158,"Midland/Odessa, TX",70226.0,summer
+2025,6,31648,"Kalispell, MT",69225.0,summer
+2025,6,34689,"Santa Barbara, CA",66812.0,summer
+2025,6,31775,"Sioux Falls, SD",65260.0,summer
+2025,6,32244,"New Haven, CT",63849.0,summer
+2025,6,34262,"Palm Springs, CA",63526.0,summer
+2025,6,30785,"Burlington, VT",63182.0,summer
+2025,6,34489,"Bend/Redmond, OR",62678.0,summer
+2025,6,32402,"Hilo, HI",62257.0,summer
+2025,6,33486,"Missoula, MT",61423.0,summer
+2025,6,31517,"Fairbanks, AK",60989.0,summer
+2025,6,30868,"Columbia, SC",59449.0,summer
+2025,6,35380,"Traverse City, MI",58073.0,summer
+2025,6,30980,"Chattanooga, TN",56756.0,summer
+2025,6,32448,"Jackson/Vicksburg, MS",55296.0,summer
+2025,6,31267,"Dayton, OH",54647.0,summer
+2025,6,33264,"Medford, OR",54416.0,summer
+2025,6,30408,"Appleton, WI",53321.0,summer
+2025,6,34457,"Rapid City, SD",51968.0,summer
+2025,6,31624,"Key West, FL",51761.0,summer
+2025,6,34314,"Provo, UT",51571.0,summer
+2025,6,31637,"Fargo, ND",50222.0,summer
+2025,6,32896,"Lubbock, TX",50115.0,summer
+2025,6,30620,"Billings, MT",49445.0,summer
+2025,6,34696,"South Bend, IN",47877.0,summer
+2025,6,34252,"Pasco/Kennewick/Richland, WA",47153.0,summer
+2025,6,33256,"Mission/McAllen/Edinburg, TX",46638.0,summer
+2025,6,31823,"Fort Wayne, IN",43790.0,summer
+2025,6,32523,"Juneau, AK",43403.0,summer
+2025,6,30135,"Allentown/Bethlehem/Easton, PA",42578.0,summer
+2025,6,34108,"Peoria, IL",39313.0,summer
+2025,6,32206,"Harlingen/San Benito, TX",39203.0,summer
+2025,6,30279,"Amarillo, TX",38994.0,summer
+2025,6,30581,"Bangor, ME",38400.0,summer
+2025,6,30476,"Shreveport, LA",38224.0,summer
+2025,6,34433,"Santa Rosa, CA",36292.0,summer
+2025,6,34574,"Roanoke, VA",35412.0,summer
+2025,6,35249,"Tallahassee, FL",35403.0,summer
+2025,6,30781,"Baton Rouge, LA",35127.0,summer
+2025,6,34236,"San Luis Obispo, CA",34972.0,summer
+2025,6,32280,"Idaho Falls, ID",33673.0,summer
+2025,6,31140,"Corpus Christi, TX",32990.0,summer
+2025,6,31977,"Green Bay, WI",32097.0,summer
+2025,6,30732,"Aguadilla, PR",31837.0,summer
+2025,6,31252,"Daytona Beach, FL",30088.0,summer
+2025,6,33367,"Moline, IL",29874.0,summer
+2025,6,30562,"Mobile, AL",29693.0,summer
+2025,6,30372,"Aspen, CO",29030.0,summer
+2025,6,31973,"Gulfport/Biloxi, MS",28930.0,summer
+2025,6,31721,"Flint, MI",28912.0,summer
+2025,6,30990,"Charlottesville, VA",28214.0,summer
+2025,6,34922,"Monterey, CA",27859.0,summer
+2025,6,30627,"Bismarck/Mandan, ND",27414.0,summer
+2025,6,31921,"Grand Junction, CO",27192.0,summer
+2025,6,32951,"Lafayette, LA",26422.0,summer
+2025,6,30285,"Durango, CO",26195.0,summer
+2025,6,30676,"Belleville, IL",25891.0,summer
+2025,6,34004,"Everett, WA",25884.0,summer
+2025,6,30208,"Augusta, GA",25645.0,summer
+2025,6,30154,"Nantucket, MA",24907.0,summer
+2025,6,34992,"Christiansted, VI",24710.0,summer
+2025,6,35323,"Bristol/Johnson City/Kingsport, TN",23990.0,summer
+2025,6,31953,"Gainesville, FL",22993.0,summer
+2025,6,30158,"Atlantic City, NJ",22917.0,summer
+2025,6,31612,"Evansville, IN",22715.0,summer
+2025,6,33502,"Montrose/Delta, CO",21549.0,summer
+2025,6,33360,"Melbourne, FL",20518.0,summer
+2025,6,31146,"Charleston/Dunbar, WV",20215.0,summer
+2025,6,30666,"Bellingham, WA",19863.0,summer
+2025,6,30434,"Scranton/Wilkes-Barre, PA",19029.0,summer
+2025,6,30561,"Bakersfield, CA",18835.0,summer
+2025,6,31895,"Great Falls, MT",18690.0,summer
+2025,6,31401,"Ketchikan, AK",18398.0,summer
+2025,6,31503,"Eagle, CO",18068.0,summer
+2025,6,34794,"St. George, UT",17389.0,summer
+2025,6,34674,"Santa Fe, NM",17184.0,summer
+2025,6,33277,"Montgomery, AL",17046.0,summer
+2025,6,32223,"Ashland, WV",16614.0,summer
+2025,6,33304,"Minot, ND",16470.0,summer
+2025,6,32124,"Hilton Head, SC",15736.0,summer
+2025,6,32544,"Concord, NC",15503.0,summer
+2025,6,32320,"Wilmington, DE",15194.0,summer
+2025,6,33795,"Jacksonville/Camp Lejeune, NC",14920.0,summer
+2025,6,31641,"Fayetteville, NC",14342.0,summer
+2025,6,30685,"Bloomington/Normal, IL",14047.0,summer
+2025,6,35356,"Trenton, NJ",14042.0,summer
+2025,6,30113,"Bethel, AK",14033.0,summer
+2025,6,33541,"Martha's Vineyard, MA",13468.0,summer
+2025,6,32016,"Guam, TT",13349.0,summer
+2025,6,34828,"Sitka, AK",13344.0,summer
+2025,6,34512,"Rockford, IL",13131.0,summer
+2025,6,33038,"Laredo, TX",12683.0,summer
+2025,6,31337,"Duluth, MN",12439.0,summer
+2025,6,30157,"Arcata/Eureka, CA",12373.0,summer
+2025,6,35041,"Sun Valley/Hailey/Ketchum, ID",12326.0,summer
+2025,6,34711,"State College, PA",12260.0,summer
+2025,6,30747,"Brownsville, TX",12201.0,summer
+2025,6,33029,"Lincoln, NE",11891.0,summer
+2025,6,33184,"Saginaw/Bay City/Midland, MI",10529.0,summer
+2025,6,33377,"Monroe, LA",10403.0,summer
+2025,6,34699,"Hayden, CO",10318.0,summer
+2025,6,30245,"King Salmon, AK",10253.0,summer
+2025,6,34254,"Ponce, PR",9705.0,summer
+2025,6,32156,"Helena, MT",9524.0,summer
+2025,6,33792,"Redding, CA",9492.0,summer
+2025,6,31122,"Casper, WY",9451.0,summer
+2025,6,32474,"Columbia, MO",9418.0,summer
+2025,6,32884,"Lansing, MI",9235.0,summer
+2025,6,31617,"New Bern/Morehead/Beaufort, NC",8990.0,summer
+2025,6,30185,"Alexandria, LA",8979.0,summer
+2025,6,32547,"Rochester, MN",8950.0,summer
+2025,6,32389,"Williston, ND",8926.0,summer
+2025,6,31537,"Elmira/Corning, NY",8845.0,summer
+2025,6,30136,"Abilene, TX",8591.0,summer
+2025,6,35628,"Vero Beach, FL",8215.0,summer
+2025,6,30070,"Kodiak, AK",8186.0,summer
+2025,6,32898,"Latrobe, PA",7959.0,summer
+2025,6,33290,"Manhattan/Ft. Riley, KS",7883.0,summer
+2025,6,30424,"Mosinee, WI",7838.0,summer
+2025,6,31205,"Lake Charles, LA",7757.0,summer
+2025,6,31982,"Killeen, TX",7668.0,summer
+2025,6,30469,"Kalamazoo, MI",7662.0,summer
+2025,6,33933,"Worcester, MA",7354.0,summer
+2025,6,33347,"Hoolehua, HI",7123.0,summer
+2025,6,36422,"Gulf Shores, AL",6935.0,summer
+2025,6,34716,"Stockton, CA",6915.0,summer
+2025,6,31898,"Grand Forks, ND",6906.0,summer
+2025,6,31067,"Champaign/Urbana, IL",6784.0,summer
+2025,6,31980,"Grand Island, NE",6712.0,summer
+2025,6,31695,"Flagstaff, AZ",6630.0,summer
+2025,6,34955,"Saipan, TT",6279.0,summer
+2025,6,33873,"Nome, AK",6170.0,summer
+2025,6,32119,"Hagerstown, MD",5893.0,summer
+2025,6,32397,"Ithaca/Cortland, NY",5776.0,summer
+2025,6,34025,"Plattsburgh, NY",5729.0,summer
+2025,6,31555,"Kenai, AK",5724.0,summer
+2025,6,31778,"Fort Smith, AR",5679.0,summer
+2025,6,34704,"Salisbury, MD",5638.0,summer
+2025,6,34303,"Pullman, WA",5600.0,summer
+2025,6,34259,"Portsmouth, NH",5571.0,summer
+2025,6,33785,"Yuma, AZ",5479.0,summer
+2025,6,31336,"Dillingham, AK",5444.0,summer
+2025,6,33459,"Marquette, MI",5355.0,summer
+2025,6,32265,"Niagara Falls, NY",5286.0,summer
+2025,6,33139,"Lynchburg, VA",5280.0,summer
+2025,6,33970,"Kotzebue, AK",4996.0,summer
+2025,6,32012,"Gunnison, CO",4963.0,summer
+2025,6,30894,"Columbus, MS",4908.0,summer
+2025,6,35550,"Valdosta, GA",4886.0,summer
+2025,6,31577,"Erie, PA",4842.0,summer
+2025,6,31027,"Clarksburg/Fairmont, WV",4820.0,summer
+2025,6,30731,"Brunswick, GA",4778.0,summer
+2025,6,35165,"Toledo, OH",4759.0,summer
+2025,6,34150,"Pellston, MI",4694.0,summer
+2025,6,31049,"College Station/Bryan, TX",4647.0,summer
+2025,6,31308,"Dothan, AL",4446.0,summer
+2025,6,34842,"San Angelo, TX",4425.0,summer
+2025,6,35411,"Tyler, TX",4312.0,summer
+2025,6,34588,"Roswell, NM",4310.0,summer
+2025,6,32250,"Hyannis, MA",4079.0,summer
+2025,6,31097,"Cody, WY",4065.0,summer
+2025,6,30107,"Barrow, AK",4038.0,summer
+2025,6,30155,"Waco, TX",4023.0,summer
+2025,6,34952,"Springfield, IL",4023.0,summer
+2025,6,33076,"La Crosse, WI",4018.0,summer
+2025,6,33034,"Lanai, HI",4016.0,summer
+2025,6,31150,"Columbus, GA",3897.0,summer
+2025,6,30073,"Deadhorse, AK",3852.0,summer
+2025,6,34520,"Rhinelander, WI",3802.0,summer
+2025,6,32891,"Lawton/Fort Sill, OK",3788.0,summer
+2025,6,31470,"Wenatchee, WA",3765.0,summer
+2025,6,31041,"Carlsbad, CA",3617.0,summer
+2025,6,34256,"Petersburg, AK",3580.0,summer
+2025,6,36101,"Yakima, WA",3536.0,summer
+2025,6,33127,"Lewiston, ID",3507.0,summer
+2025,6,30275,"Walla Walla, WA",3439.0,summer
+2025,6,33964,"North Bend/Coos Bay, OR",3352.0,summer
+2025,6,31013,"Sault Ste. Marie, MI",3259.0,summer
+2025,6,30146,"Albany, GA",3194.0,summer
+2025,6,34092,"Greenville, NC",3103.0,summer
+2025,6,31867,"Garden City, KS",3079.0,summer
+2025,6,34691,"San Bernardino, CA",2959.0,summer
+2025,6,35389,"Twin Falls, ID",2956.0,summer
+2025,6,34222,"Pago Pago, TT",2913.0,summer
+2025,6,30728,"Beaumont/Port Arthur, TX",2887.0,summer
+2025,6,34877,"Salina, KS",2871.0,summer
+2025,6,35401,"Texarkana, AR",2790.0,summer
+2025,6,35897,"West Yellowstone, MT",2751.0,summer
+2025,6,31076,"Hancock/Houghton, MI",2697.0,summer
+2025,6,35626,"Vieques, PR",2674.0,summer
+2025,6,35074,"Stillwater, OK",2660.0,summer
+2025,6,34812,"Sheridan, WY",2602.0,summer
+2025,6,31905,"Longview, TX",2593.0,summer
+2025,6,31865,"Gillette, WY",2573.0,summer
+2025,6,34534,"Riverton/Lander, WY",2421.0,summer
+2025,6,35048,"Sioux City, IA",2343.0,summer
+2025,6,30007,"Klawock, AK",2326.0,summer
+2025,6,31445,"Unalaska, AK",2320.0,summer
+2025,6,31233,"Cheyenne, WY",2301.0,summer
+2025,6,32177,"Hobbs, NM",2298.0,summer
+2025,6,30631,"Bemidji, MN",2297.0,summer
+2025,6,34543,"Rock Springs, WY",2273.0,summer
+2025,6,30779,"Butte, MT",2253.0,summer
+2025,6,31315,"Dickinson, ND",2227.0,summer
+2025,6,32511,"Joplin, MO",2227.0,summer
+2025,6,30361,"Watertown, NY",2223.0,summer
+2025,6,31997,"Gustavus, AK",2192.0,summer
+2025,6,30141,"Aberdeen, SD",2181.0,summer
+2025,6,31699,"Florence, SC",2161.0,summer
+2025,6,34871,"Salem, OR",2151.0,summer
+2025,6,34237,"Prescott, AZ",2148.0,summer
+2025,6,31468,"Kearney, NE",2129.0,summer
+2025,6,34113,"Pocatello, ID",2101.0,summer
+2025,6,34960,"Wichita Falls, TX",2100.0,summer
+2025,6,30913,"Cordova, AK",2094.0,summer
+2025,6,30009,"Homer, AK",1961.0,summer
+2025,6,32335,"Iron Mountain/Kingsfd, MI",1954.0,summer
+2025,6,30613,"Block Island, RI",1948.0,summer
+2025,6,32343,"International Falls, MN",1942.0,summer
+2025,6,33032,"Lancaster, PA",1936.0,summer
+2025,6,34231,"Presque Isle/Houlton, ME",1914.0,summer
+2025,6,35855,"Westerly, RI",1884.0,summer
+2025,6,31471,"Eau Claire, WI",1882.0,summer
+2025,6,30268,"Waterloo, IA",1871.0,summer
+2025,6,35215,"Tinian, TT",1841.0,summer
+2025,6,31126,"Culebra, PR",1835.0,summer
+2025,6,31646,"Friday Harbor, WA",1835.0,summer
+2025,6,33241,"Meridian, MS",1805.0,summer
+2025,6,30739,"Brainerd, MN",1741.0,summer
+2025,6,33743,"Ceiba, PR",1735.0,summer
+2025,6,32559,"Johnstown, PA",1619.0,summer
+2025,6,35841,"Wrangell, AK",1596.0,summer
+2025,6,32899,"North Platte, NE",1569.0,summer
+2025,6,32888,"Laramie, WY",1555.0,summer
+2025,6,32255,"Hays, KS",1529.0,summer
+2025,6,32556,"St. Cloud, MN",1514.0,summer
+2025,6,31587,"Escanaba, MI",1487.0,summer
+2025,6,30409,"Watertown, SD",1435.0,summer
+2025,6,30333,"Alpena, MI",1430.0,summer
+2025,6,30577,"Binghamton, NY",1417.0,summer
+2025,6,34109,"Hattiesburg/Laurel, MS",1396.0,summer
+2025,6,31525,"Elko, NV",1392.0,summer
+2025,6,35991,"Yakutat, AK",1391.0,summer
+2025,6,34120,"Pierre, SD",1332.0,summer
+2025,6,33282,"Morgantown, WV",1304.0,summer
+2025,6,35569,"Victoria, TX",1285.0,summer
+2025,6,35374,"Tupelo, MS",1231.0,summer
+2025,6,30558,"Scottsbluff, NE",1211.0,summer
+2025,6,34905,"Santa Maria, CA",1179.0,summer
+2025,6,30272,"Alamosa, CO",1157.0,summer
+2025,6,34006,"Paducah, KY",1145.0,summer
+2025,6,32129,"Hibbing, MN",1140.0,summer
+2025,6,32131,"Ogden, UT",1139.0,summer
+2025,6,31092,"Moab, UT",1131.0,summer
+2025,6,35582,"Vernal, UT",1124.0,summer
+2025,6,34081,"Page, AZ",1121.0,summer
+2025,6,31197,"Clovis, NM",1104.0,summer
+2025,6,33155,"Macon, GA",1088.0,summer
+2025,6,30918,"Cedar City, UT",1056.0,summer
+2025,6,35177,"Telluride, CO",1056.0,summer
+2025,6,33543,"Marion/Herrin, IL",1047.0,summer
+2025,6,33121,"Lewisburg, WV",1024.0,summer
+2025,6,31844,"Galena, AK",1018.0,summer
+2025,6,33832,"Ogdensburg, NY",1003.0,summer
+2025,6,35138,"Fort Leonard Wood, MO",1000.0,summer
+2025,6,32519,"Jamestown, ND",991.0,summer
+2025,6,33348,"Jackson, TN",987.0,summer
+2025,6,31288,"Decatur, IL",977.0,summer
+2025,6,30589,"Bar Harbor, ME",972.0,summer
+2025,6,31711,"Farmington, NM",971.0,summer
+2025,6,34943,"Show Low, AZ",968.0,summer
+2025,6,33182,"Manistee/Ludington, MI",965.0,summer
+2025,6,30322,"Altoona, PA",894.0,summer
+2025,6,31588,"Eastsound, WA",882.0,summer
+2025,6,31550,"Emmonak, AK",869.0,summer
+2025,6,31447,"Devils Lake, ND",856.0,summer
+2025,6,33983,"Owensboro, KY",849.0,summer
+2025,6,34468,"Brooks Lodge, AK",846.0,summer
+2025,6,30967,"Cape Girardeau, MO",845.0,summer
+2025,6,31283,"Dodge City, KS",815.0,summer
+2025,6,31402,"Haines, AK",811.0,summer
+2025,6,33484,"Muscle Shoals, AL",806.0,summer
+2025,6,33211,"Mason City, IA",795.0,summer
+2025,6,32412,"Ironwood, MI",787.0,summer
+2025,6,32902,"Liberal, KS",783.0,summer
+2025,6,32932,"Lebanon-Hanover, NH",767.0,summer
+2025,6,31725,"Fort Dodge, IA",751.0,summer
+2025,6,34306,"Provincetown, MA",750.0,summer
+2025,6,33344,"Muskegon, MI",745.0,summer
+2025,6,35381,"Thief River Falls, MN",720.0,summer
+2025,6,30950,"Cortez, CO",700.0,summer
+2025,6,34539,"Rockland, ME",672.0,summer
+2025,6,30930,"Crescent City, CA",671.0,summer
+2025,6,34582,"Rota, TT",671.0,summer
+2025,6,34802,"Staunton, VA",656.0,summer
+2025,6,33176,"Mayaguez, PR",652.0,summer
+2025,6,34477,"Roche Harbor, WA",640.0,summer
+2025,6,35579,"Valdez, AK",630.0,summer
+2025,6,34797,"Skagway, AK",626.0,summer
+2025,6,34745,"Sidney, MT",620.0,summer
+2025,6,31931,"Greenville, MS",610.0,summer
+2025,6,31274,"Dubuque, IA",581.0,summer
+2025,6,34054,"Pendleton, OR",561.0,summer
+2025,6,30414,"Augusta/Waterville, ME",547.0,summer
+2025,6,32171,"Hoonah, AK",539.0,summer
+2025,6,34875,"Saranac Lake/Lake Placid, NY",503.0,summer
+2025,6,35051,"Silver City/Hurley, NM",499.0,summer
+2025,6,30082,"Cold Bay, AK",495.0,summer
+2025,6,33490,"Massena, NY",492.0,summer
+2025,6,31833,"Fort Yukon, AK",474.0,summer
+2025,6,34648,"Rutland, VT",459.0,summer
+2025,6,32853,"Quinhagak, AK",436.0,summer
+2025,6,32375,"Kirksville, MO",433.0,summer
+2025,6,33520,"Kamuela, HI",432.0,summer
+2025,6,33109,"Kalaupapa, HI",430.0,summer
+2025,6,31441,"DuBois, PA",419.0,summer
+2025,6,30654,"Beckley, WV",411.0,summer
+2025,6,35554,"Chevak, AK",410.0,summer
+2025,6,32195,"Hooper Bay, AK",408.0,summer
+2025,6,32207,"Harrison, AR",408.0,summer
+2025,6,35454,"Quincy, IL",395.0,summer
+2025,6,32779,"Kipnuk, AK",383.0,summer
+2025,6,34738,"Sandpoint, AK",380.0,summer
+2025,6,34102,"Point Hope, AK",379.0,summer
+2025,6,33055,"Lopez Island, WA",365.0,summer
+2025,6,31615,"New Bedford/Fall River, MA",362.0,summer
+2025,6,33194,"Merced, CA",352.0,summer
+2025,6,34628,"Rosario, WA",330.0,summer
+2025,6,31085,"Carlsbad, NM",328.0,summer
+2025,6,34234,"Pilot Station, AK",323.0,summer
+2025,6,30221,"Alliance, NE",322.0,summer
+2025,6,32610,"Kake, AK",319.0,summer
+2025,6,32769,"Kotlik, AK",316.0,summer
+2025,6,33894,"Toksook, AK",312.0,summer
+2025,6,35478,"Unalakleet, AK",312.0,summer
+2025,6,32214,"Huslia, AK",306.0,summer
+2025,6,30416,"Alakanuk, AK",302.0,summer
+2025,6,32363,"El Centro, CA",302.0,summer
+2025,6,30744,"Burlington, IA",301.0,summer
+2025,6,30304,"Aniak, AK",296.0,summer
+2025,6,33434,"Mountain Village, AK",292.0,summer
+2025,6,30020,"Selawik, AK",285.0,summer
+2025,6,32807,"St. Mary's, AK",284.0,summer
+2025,6,31908,"Glasgow, MT",277.0,summer
+2025,6,32878,"Lafayette, IN",277.0,summer
+2025,6,30225,"Wainwright, AK",275.0,summer
+2025,6,32018,"Gallup, NM",275.0,summer
+2025,6,30247,"Anaktuvuk Pass, AK",272.0,summer
+2025,6,32190,"Hot Springs, AR",270.0,summer
+2025,6,33196,"McGrath, AK",263.0,summer
+2025,6,33862,"Wolf Point, MT",261.0,summer
+2025,6,30557,"Bradford, PA",259.0,summer
+2025,6,31227,"Chefornak, AK",259.0,summer
+2025,6,32831,"Kasigluk, AK",256.0,summer
+2025,6,35049,"Savoonga, AK",252.0,summer
+2025,6,33942,"Noorvik, AK",251.0,summer
+2025,6,32708,"Kongiganak, AK",249.0,summer
+2025,6,34288,"Pueblo, CO",247.0,summer
+2025,6,32321,"Iliamna, AK",246.0,summer
+2025,6,36587,"Deer Harbor, WA",246.0,summer
+2025,6,34805,"Shishmaref, AK",245.0,summer
+2025,6,34718,"Scammon Bay, AK",243.0,summer
+2025,6,35293,"Togiak, AK",243.0,summer
+2025,6,34088,"Port Graham, AK",242.0,summer
+2025,6,32649,"Nanwalek, AK",241.0,summer
+2025,6,32268,"Kiana, AK",240.0,summer
+2025,6,35862,"Tuntutuliak, AK",236.0,summer
+2025,6,30640,"Buckland, AK",235.0,summer
+2025,6,33200,"McCook, NE",230.0,summer
+2025,6,30349,"Arctic Village, AK",229.0,summer
+2025,6,32245,"Havre, MT",225.0,summer
+2025,6,35124,"Tanana, AK",225.0,summer
+2025,6,31531,"El Dorado, AR",223.0,summer
+2025,6,32721,"Larsen Bay, AK",222.0,summer
+2025,6,33770,"Nunapitchuk, AK",222.0,summer
+2025,6,31845,"Gambell, AK",220.0,summer
+2025,6,30165,"Adak Island, AK",216.0,summer
+2025,6,30204,"Angoon, AK",214.0,summer
+2025,6,31535,"Elim, AK",209.0,summer
+2025,6,33369,"Marshall, AK",207.0,summer
+2025,6,31492,"Eek, AK",205.0,summer
+2025,6,31464,"Noatak, AK",203.0,summer
+2025,6,32748,"Kokhanok, AK",198.0,summer
+2025,6,32851,"Kwigillingok, AK",196.0,summer
+2025,6,32365,"Williamsport, PA",194.0,summer
+2025,6,30783,"Bettles, AK",193.0,summer
+2025,6,33768,"Nulato, AK",188.0,summer
+2025,6,34062,"Pelican, AK",187.0,summer
+2025,6,35887,"Newtok, AK",186.0,summer
+2025,6,30775,"Barter Island, AK",184.0,summer
+2025,6,32709,"Akiachak, AK",184.0,summer
+2025,6,34627,"Russian Mission, AK",184.0,summer
+2025,6,34474,"Ruby, AK",181.0,summer
+2025,6,35721,"Stebbins, AK",181.0,summer
+2025,6,30617,"Bishop, CA",179.0,summer
+2025,6,32704,"Koyuk, AK",176.0,summer
+2025,6,32755,"New Stuyahok, AK",176.0,summer
+2025,6,30405,"Atmautluak, AK",172.0,summer
+2025,6,31511,"Egegik, AK",171.0,summer
+2025,6,32737,"Manokotak, AK",171.0,summer
+2025,6,33767,"Nuiqsut, AK",171.0,summer
+2025,6,32455,"Jonesboro, AR",166.0,summer
+2025,6,32492,"Kapalua, HI",166.0,summer
+2025,6,32844,"Kivalina, AK",166.0,summer
+2025,6,33863,"Old Harbor, AK",159.0,summer
+2025,6,35085,"Sheldon Point, AK",157.0,summer
+2025,6,32719,"Kalskag, AK",155.0,summer
+2025,6,31879,"Glendive, MT",154.0,summer
+2025,6,35282,"Tununak, AK",154.0,summer
+2025,6,30139,"Ambler, AK",152.0,summer
+2025,6,34895,"St. Michael, AK",144.0,summer
+2025,6,30396,"Atqasuk, AK",143.0,summer
+2025,6,34919,"St. Paul, AK",142.0,summer
+2025,6,32174,"Hana, HI",138.0,summer
+2025,6,32855,"Kwethluk, AK",136.0,summer
+2025,6,30184,"Allakaket, AK",135.0,summer
+2025,6,32822,"Brevig Mission, AK",134.0,summer
+2025,6,34856,"Shaktoolik, AK",132.0,summer
+2025,6,33072,"Las Cruces, NM",131.0,summer
+2025,6,30241,"Akiak, AK",129.0,summer
+2025,6,34125,"Point Lay, AK",127.0,summer
+2025,6,34804,"Shungnak, AK",127.0,summer
+2025,6,33710,"Nightmute, AK",125.0,summer
+2025,6,33579,"Mekoryuk, AK",118.0,summer
+2025,6,31941,"Golovin, AK",117.0,summer
+2025,6,35385,"Twin Hills, AK",107.0,summer
+2025,6,35794,"White Mountain, AK",105.0,summer
+2025,6,32615,"Kaltag, AK",102.0,summer
+2025,6,30925,"Chadron, NE",99.0,summer
+2025,6,35581,"Venetie, AK",98.0,summer
+2025,6,31411,"Deering, AK",97.0,summer
+2025,6,35257,"Tuluksak, AK",96.0,summer
+2025,6,35798,"Napakiak, AK",96.0,summer
+2025,6,36553,"Akun, AK",96.0,summer
+2025,6,31545,"Elfin Cove, AK",95.0,summer
+2025,6,33806,"Kobuk, AK",89.0,summer
+2025,6,31952,"Goodnews Bay, AK",80.0,summer
+2025,6,33676,"Nikolai, AK",78.0,summer
+2025,6,34673,"Safford, AZ",78.0,summer
+2025,6,31924,"Gulkana, AK",77.0,summer
+2025,6,32772,"Ouzinkie, AK",77.0,summer
+2025,6,32671,"Koliganek, AK",70.0,summer
+2025,6,32786,"Akutan, AK",70.0,summer
+2025,6,32868,"Koyukuk, AK",70.0,summer
+2025,6,34119,"Pilot Point, AK",69.0,summer
+2025,6,31007,"Chalkyitsik, AK",68.0,summer
+2025,6,35245,"Teller, AK",67.0,summer
+2025,6,31053,"Clarks Point, AK",62.0,summer
+2025,6,35725,"Beaver, AK",62.0,summer
+2025,6,32631,"Chignik, AK",61.0,summer
+2025,6,32235,"Hughes, AK",59.0,summer
+2025,6,35856,"Westsound, WA",59.0,summer
+2025,6,33564,"McCarthy, AK",57.0,summer
+2025,6,33934,"Port Lions, AK",56.0,summer
+2025,6,32087,"Holy Cross, AK",55.0,summer
+2025,6,35231,"Tenakee, AK",54.0,summer
+2025,6,31214,"Coldfoot, AK",53.0,summer
+2025,6,35709,"Wales, AK",53.0,summer
+2025,6,31463,"Eagle, AK",52.0,summer
+2025,6,34130,"Napaskiak, AK",52.0,summer
+2025,6,33388,"Mammoth Lakes, CA",51.0,summer
+2025,6,35160,"Takotna, AK",47.0,summer
+2025,6,33715,"Nondalton, AK",46.0,summer
+2025,6,34273,"Port Heiden, AK",46.0,summer
+2025,6,33003,"Kulik Lake, AK",45.0,summer
+2025,6,35171,"Tatitlek, AK",42.0,summer
+2025,6,30455,"Eagle Nest, NM",41.0,summer
+2025,6,33504,"Metlakatla, AK",41.0,summer
+2025,6,34559,"Rampart, AK",41.0,summer
+2025,6,32653,"Ekwok, AK",40.0,summer
+2025,6,30056,"Kodiak Island, AK",36.0,summer
+2025,6,31406,"Platinum, AK",36.0,summer
+2025,6,30011,"Peach Springs, AZ",35.0,summer
+2025,6,30661,"Boulder City, NV",35.0,summer
+2025,6,31501,"Chenega, AK",33.0,summer
+2025,6,32866,"Karluk, AK",32.0,summer
+2025,6,34942,"Seldovia, AK",31.0,summer
+2025,6,30243,"Akhiok, AK",29.0,summer
+2025,6,34816,"Shageluk, AK",29.0,summer
+2025,6,32621,"Birch Creek, AK",27.0,summer
+2025,6,32841,"King Cove, AK",27.0,summer
+2025,6,30313,"Anvik, AK",26.0,summer
+2025,6,35342,"Taos, NM",26.0,summer
+2025,6,32676,"Grayling, AK",24.0,summer
+2025,6,35012,"St. George Island, AK",24.0,summer
+2025,6,35236,"Tok, AK",22.0,summer
+2025,6,33016,"Lake Minchumina, AK",20.0,summer
+2025,6,30237,"Atka, AK",19.0,summer
+2025,6,34270,"Port Alexander, AK",16.0,summer
+2025,6,34464,"Ugashik, AK",16.0,summer
+2025,6,30996,"Chuathbaluk, AK",13.0,summer
+2025,6,32720,"Levelock, AK",13.0,summer
+2025,6,32815,"Thorne Bay, AK",13.0,summer
+2025,6,31028,"Crooked Creek, AK",12.0,summer
+2025,6,32315,"Nikolski, AK",12.0,summer
+2025,6,32854,"West Point, AK",12.0,summer
+2025,6,35061,"Stevens Village, AK",11.0,summer
+2025,6,31484,"Edna Bay, AK",9.0,summer
+2025,6,32141,"Healy, AK",9.0,summer
+2025,6,32253,"Hollis, AK",9.0,summer
+2025,6,32784,"Perryville, AK",9.0,summer
+2025,6,35754,"Hyder, AK",9.0,summer
+2025,6,31245,"Chisana, AK",8.0,summer
+2025,6,32294,"Igiugig, AK",8.0,summer
+2025,6,34046,"Pedro Bay, AK",8.0,summer
+2025,6,34131,"Parkersburg, WV",8.0,summer
+2025,6,35278,"Tin City, AK",8.0,summer
+2025,6,30961,"Craig, AK",7.0,summer
+2025,6,31619,"Excursion Inlet, AK",7.0,summer
+2025,6,32370,"Circle, AK",7.0,summer
+2025,6,32633,"Coffman Cove, AK",7.0,summer
+2025,6,32663,"False Pass, AK",7.0,summer
+2025,6,32743,"Moser Bay, AK",7.0,summer
+2025,6,33415,"Minto, AK",7.0,summer
+2025,6,34493,"Red Devil, AK",6.0,summer
+2025,6,34880,"Sleetmute, AK",6.0,summer
+2025,6,31348,"Deming, NM",4.0,summer
+2025,6,32705,"Kitoi Bay, AK",4.0,summer
+2025,6,32771,"Olga Bay, AK",4.0,summer
+2025,6,34987,"Stony River, AK",4.0,summer
+2025,6,35853,"South Naknek, AK",4.0,summer
+2025,6,31036,"Chicken, AK",3.0,summer
+2025,6,32782,"Port Williams, AK",3.0,summer
+2025,6,33111,"Cape Lisburne, AK",3.0,summer
+2025,6,33704,"Nelson Lagoon, AK",3.0,summer
+2025,6,34229,"Port Protection, AK",3.0,summer
+2025,6,35250,"Tatalina, AK",3.0,summer
+2025,6,36390,"Beluga, AK",3.0,summer
+2025,6,30278,"Lazy Bay, AK",2.0,summer
+2025,6,35086,"Soldotna, AK",2.0,summer
+2025,6,35446,"Uganik, AK",2.0,summer
+2025,6,31367,"Dora Bay, AK",1.0,summer
+2025,6,34268,"Port Alsworth, AK",1.0,summer
+2025,6,35091,"Seal Bay, AK",1.0,summer
+2025,6,35793,"Meyers Chuck, AK",1.0,summer
+2025,6,35885,"Whale Pass, AK",1.0,summer
+2025,8,31703,"New York, NY",4025716.0,summer
+2025,8,30397,"Atlanta, GA",3838332.0,summer
+2025,8,30977,"Chicago, IL",3813847.0,summer
+2025,8,30194,"Dallas/Fort Worth, TX",3729492.0,summer
+2025,8,30325,"Denver, CO",3416870.0,summer
+2025,8,32575,"Los Angeles, CA",3332601.0,summer
+2025,8,30852,"Washington, DC",2897934.0,summer
+2025,8,32457,"San Francisco, CA",2373347.0,summer
+2025,8,30559,"Seattle, WA",2252687.0,summer
+2025,8,32467,"Miami, FL",2095448.0,summer
+2025,8,32211,"Las Vegas, NV",2052891.0,summer
+2025,8,31057,"Charlotte, NC",2007210.0,summer
+2025,8,31453,"Houston, TX",1858435.0,summer
+2025,8,31454,"Orlando, FL",1846224.0,summer
+2025,8,30721,"Boston, MA",1815268.0,summer
+2025,8,30466,"Phoenix, AZ",1812791.0,summer
+2025,8,31650,"Minneapolis, MN",1518926.0,summer
+2025,8,31295,"Detroit, MI",1381575.0,summer
+2025,8,34100,"Philadelphia, PA",1258595.0,summer
+2025,8,34614,"Salt Lake City, UT",1106763.0,summer
+2025,8,33570,"San Diego, CA",1096021.0,summer
+2025,8,30693,"Nashville, TN",1080342.0,summer
+2025,8,33195,"Tampa, FL",1016383.0,summer
+2025,8,34057,"Portland, OR",866130.0,summer
+2025,8,30423,"Austin, TX",839197.0,summer
+2025,8,32134,"Honolulu, HI",713971.0,summer
+2025,8,34492,"Raleigh/Durham, NC",657971.0,summer
+2025,8,31123,"St. Louis, MO",657632.0,summer
+2025,8,33192,"Sacramento, CA",589869.0,summer
+2025,8,33198,"Kansas City, MO",493492.0,summer
+2025,8,34819,"San Juan, PR",488132.0,summer
+2025,8,30647,"Cleveland, OH",483432.0,summer
+2025,8,30198,"Pittsburgh, PA",437094.0,summer
+2025,8,33495,"New Orleans, LA",427276.0,summer
+2025,8,32337,"Indianapolis, IN",411487.0,summer
+2025,8,31066,"Columbus, OH",404602.0,summer
+2025,8,33214,"San Antonio, TX",396150.0,summer
+2025,8,33105,"Cincinnati, OH",369226.0,summer
+2025,8,30299,"Anchorage, AK",316049.0,summer
+2025,8,31136,"Jacksonville, FL",309760.0,summer
+2025,8,31714,"Fort Myers, FL",306084.0,summer
+2025,8,30529,"Hartford, CT",305107.0,summer
+2025,8,33830,"Kahului, HI",283463.0,summer
+2025,8,34027,"West Palm Beach/Palm Beach, FL",283366.0,summer
+2025,8,33342,"Milwaukee, WI",266896.0,summer
+2025,8,30994,"Charleston, SC",266156.0,summer
+2025,8,30792,"Buffalo, NY",263794.0,summer
+2025,8,33667,"Norfolk, VA",250223.0,summer
+2025,8,34570,"Reno, NV",237174.0,summer
+2025,8,30713,"Boise, ID",226483.0,summer
+2025,8,30140,"Albuquerque, NM",225039.0,summer
+2025,8,33316,"Omaha, NE",222338.0,summer
+2025,8,34524,"Richmond, VA",217785.0,summer
+2025,8,31135,"Myrtle Beach, SC",216691.0,summer
+2025,8,31884,"Spokane, WA",202595.0,summer
+2025,8,33851,"Oklahoma City, OK",198297.0,summer
+2025,8,33244,"Memphis, TN",194219.0,summer
+2025,8,31986,"Grand Rapids, MI",185041.0,summer
+2025,8,33044,"Louisville, KY",179694.0,summer
+2025,8,34685,"Savannah, GA",175242.0,summer
+2025,8,30849,"Bozeman, MT",169410.0,summer
+2025,8,32758,"Kona, HI",168012.0,summer
+2025,8,32982,"Lihue, HI",160034.0,summer
+2025,8,34321,"Portland, ME",158643.0,summer
+2025,8,30615,"El Paso, TX",156342.0,summer
+2025,8,30257,"Albany, NY",155226.0,summer
+2025,8,35412,"Knoxville, TN",152707.0,summer
+2025,8,31423,"Des Moines, IA",151580.0,summer
+2025,8,34653,"Tulsa, OK",142301.0,summer
+2025,8,35096,"Syracuse, NY",142134.0,summer
+2025,8,33728,"Pensacola, FL",134842.0,summer
+2025,8,30599,"Birmingham, AL",133586.0,summer
+2025,8,31871,"Greer, SC",133143.0,summer
+2025,8,30436,"Tucson, AZ",132295.0,summer
+2025,8,31504,"Valparaiso, FL",130837.0,summer
+2025,8,34576,"Rochester, NY",130545.0,summer
+2025,8,34986,"Sarasota/Bradenton, FL",126314.0,summer
+2025,8,30189,"Colorado Springs, CO",114554.0,summer
+2025,8,33485,"Madison, WI",112856.0,summer
+2025,8,34761,"Sanford, FL",111916.0,summer
+2025,8,31834,"Fayetteville, AR",108614.0,summer
+2025,8,31638,"Fresno, CA",105913.0,summer
+2025,8,30431,"Asheville, NC",105803.0,summer
+2025,8,32600,"Little Rock, AR",99942.0,summer
+2025,8,32323,"Wilmington, NC",92045.0,summer
+2025,8,31995,"Greensboro/High Point, NC",91509.0,summer
+2025,8,31481,"Panama City, FL",90578.0,summer
+2025,8,30928,"Wichita, KS",82893.0,summer
+2025,8,31648,"Kalispell, MT",80602.0,summer
+2025,8,31603,"Eugene, OR",76648.0,summer
+2025,8,32441,"Jackson, WY",74955.0,summer
+2025,8,30255,"Huntsville, AL",74329.0,summer
+2025,8,32244,"New Haven, CT",74066.0,summer
+2025,8,34783,"Springfield, MO",73512.0,summer
+2025,8,32070,"Harrisburg, PA",72591.0,summer
+2025,8,30785,"Burlington, VT",71940.0,summer
+2025,8,31003,"Cedar Rapids/Iowa City, IA",69248.0,summer
+2025,8,32945,"Lexington, KY",68844.0,summer
+2025,8,34689,"Santa Barbara, CA",68838.0,summer
+2025,8,35380,"Traverse City, MI",66350.0,summer
+2025,8,34489,"Bend/Redmond, OR",65994.0,summer
+2025,8,33158,"Midland/Odessa, TX",64276.0,summer
+2025,8,31517,"Fairbanks, AK",62723.0,summer
+2025,8,31775,"Sioux Falls, SD",60937.0,summer
+2025,8,30868,"Columbia, SC",59715.0,summer
+2025,8,34082,"Punta Gorda, FL",59635.0,summer
+2025,8,33486,"Missoula, MT",59609.0,summer
+2025,8,30581,"Bangor, ME",59487.0,summer
+2025,8,32402,"Hilo, HI",59470.0,summer
+2025,8,34262,"Palm Springs, CA",59143.0,summer
+2025,8,33264,"Medford, OR",55011.0,summer
+2025,8,31267,"Dayton, OH",54362.0,summer
+2025,8,30980,"Chattanooga, TN",54153.0,summer
+2025,8,32448,"Jackson/Vicksburg, MS",50903.0,summer
+2025,8,31637,"Fargo, ND",50533.0,summer
+2025,8,34457,"Rapid City, SD",49698.0,summer
+2025,8,34945,"Charlotte Amalie, VI",49530.0,summer
+2025,8,32896,"Lubbock, TX",49298.0,summer
+2025,8,30408,"Appleton, WI",49178.0,summer
+2025,8,30620,"Billings, MT",49101.0,summer
+2025,8,32523,"Juneau, AK",48736.0,summer
+2025,8,34252,"Pasco/Kennewick/Richland, WA",47836.0,summer
+2025,8,31624,"Key West, FL",44941.0,summer
+2025,8,34696,"South Bend, IN",44481.0,summer
+2025,8,33256,"Mission/McAllen/Edinburg, TX",44086.0,summer
+2025,8,34314,"Provo, UT",43180.0,summer
+2025,8,30135,"Allentown/Bethlehem/Easton, PA",43107.0,summer
+2025,8,30158,"Atlantic City, NJ",41243.0,summer
+2025,8,30154,"Nantucket, MA",40248.0,summer
+2025,8,32206,"Harlingen/San Benito, TX",39925.0,summer
+2025,8,31823,"Fort Wayne, IN",38026.0,summer
+2025,8,34574,"Roanoke, VA",37600.0,summer
+2025,8,35249,"Tallahassee, FL",37302.0,summer
+2025,8,34433,"Santa Rosa, CA",35500.0,summer
+2025,8,32280,"Idaho Falls, ID",35414.0,summer
+2025,8,30279,"Amarillo, TX",35034.0,summer
+2025,8,30781,"Baton Rouge, LA",34821.0,summer
+2025,8,30476,"Shreveport, LA",33885.0,summer
+2025,8,34236,"San Luis Obispo, CA",33765.0,summer
+2025,8,34108,"Peoria, IL",33123.0,summer
+2025,8,30372,"Aspen, CO",32249.0,summer
+2025,8,30732,"Aguadilla, PR",31802.0,summer
+2025,8,31252,"Daytona Beach, FL",31788.0,summer
+2025,8,31977,"Green Bay, WI",31607.0,summer
+2025,8,31140,"Corpus Christi, TX",30811.0,summer
+2025,8,33541,"Martha's Vineyard, MA",30457.0,summer
+2025,8,34922,"Monterey, CA",29373.0,summer
+2025,8,30562,"Mobile, AL",28815.0,summer
+2025,8,33367,"Moline, IL",27838.0,summer
+2025,8,30285,"Durango, CO",27749.0,summer
+2025,8,30990,"Charlottesville, VA",27658.0,summer
+2025,8,31973,"Gulfport/Biloxi, MS",27530.0,summer
+2025,8,31921,"Grand Junction, CO",26118.0,summer
+2025,8,30208,"Augusta, GA",25979.0,summer
+2025,8,30627,"Bismarck/Mandan, ND",25658.0,summer
+2025,8,32951,"Lafayette, LA",25274.0,summer
+2025,8,31721,"Flint, MI",24962.0,summer
+2025,8,34004,"Everett, WA",24008.0,summer
+2025,8,31953,"Gainesville, FL",23986.0,summer
+2025,8,31401,"Ketchikan, AK",22266.0,summer
+2025,8,35323,"Bristol/Johnson City/Kingsport, TN",22137.0,summer
+2025,8,33502,"Montrose/Delta, CO",21941.0,summer
+2025,8,33360,"Melbourne, FL",21251.0,summer
+2025,8,30676,"Belleville, IL",20532.0,summer
+2025,8,31612,"Evansville, IN",20140.0,summer
+2025,8,31146,"Charleston/Dunbar, WV",20073.0,summer
+2025,8,34992,"Christiansted, VI",19969.0,summer
+2025,8,31503,"Eagle, CO",19064.0,summer
+2025,8,34674,"Santa Fe, NM",18465.0,summer
+2025,8,30666,"Bellingham, WA",18437.0,summer
+2025,8,30434,"Scranton/Wilkes-Barre, PA",18308.0,summer
+2025,8,32320,"Wilmington, DE",18115.0,summer
+2025,8,34794,"St. George, UT",17862.0,summer
+2025,8,30561,"Bakersfield, CA",17739.0,summer
+2025,8,31895,"Great Falls, MT",17256.0,summer
+2025,8,33277,"Montgomery, AL",16608.0,summer
+2025,8,31641,"Fayetteville, NC",15992.0,summer
+2025,8,33795,"Jacksonville/Camp Lejeune, NC",15727.0,summer
+2025,8,33304,"Minot, ND",15470.0,summer
+2025,8,30113,"Bethel, AK",15181.0,summer
+2025,8,35356,"Trenton, NJ",14929.0,summer
+2025,8,35041,"Sun Valley/Hailey/Ketchum, ID",14794.0,summer
+2025,8,34711,"State College, PA",14337.0,summer
+2025,8,32124,"Hilton Head, SC",14233.0,summer
+2025,8,32544,"Concord, NC",13758.0,summer
+2025,8,32223,"Ashland, WV",13742.0,summer
+2025,8,30685,"Bloomington/Normal, IL",13453.0,summer
+2025,8,34828,"Sitka, AK",13233.0,summer
+2025,8,30157,"Arcata/Eureka, CA",13101.0,summer
+2025,8,31337,"Duluth, MN",12772.0,summer
+2025,8,30747,"Brownsville, TX",12669.0,summer
+2025,8,33038,"Laredo, TX",12279.0,summer
+2025,8,34512,"Rockford, IL",11972.0,summer
+2025,8,33029,"Lincoln, NE",11694.0,summer
+2025,8,32016,"Guam, TT",10991.0,summer
+2025,8,33377,"Monroe, LA",10809.0,summer
+2025,8,32250,"Hyannis, MA",10691.0,summer
+2025,8,33184,"Saginaw/Bay City/Midland, MI",10579.0,summer
+2025,8,34254,"Ponce, PR",10519.0,summer
+2025,8,30070,"Kodiak, AK",10467.0,summer
+2025,8,34699,"Hayden, CO",10455.0,summer
+2025,8,33792,"Redding, CA",9720.0,summer
+2025,8,32884,"Lansing, MI",9562.0,summer
+2025,8,32156,"Helena, MT",9484.0,summer
+2025,8,32389,"Williston, ND",9472.0,summer
+2025,8,32474,"Columbia, MO",9201.0,summer
+2025,8,31122,"Casper, WY",9043.0,summer
+2025,8,32547,"Rochester, MN",8854.0,summer
+2025,8,31537,"Elmira/Corning, NY",8775.0,summer
+2025,8,30136,"Abilene, TX",8611.0,summer
+2025,8,33933,"Worcester, MA",8593.0,summer
+2025,8,35628,"Vero Beach, FL",8363.0,summer
+2025,8,30185,"Alexandria, LA",8361.0,summer
+2025,8,31617,"New Bern/Morehead/Beaufort, NC",8134.0,summer
+2025,8,32898,"Latrobe, PA",8014.0,summer
+2025,8,31205,"Lake Charles, LA",7906.0,summer
+2025,8,30424,"Mosinee, WI",7866.0,summer
+2025,8,30469,"Kalamazoo, MI",7694.0,summer
+2025,8,31982,"Killeen, TX",7481.0,summer
+2025,8,31067,"Champaign/Urbana, IL",7226.0,summer
+2025,8,31898,"Grand Forks, ND",7169.0,summer
+2025,8,33459,"Marquette, MI",7079.0,summer
+2025,8,33347,"Hoolehua, HI",6856.0,summer
+2025,8,33290,"Manhattan/Ft. Riley, KS",6767.0,summer
+2025,8,33873,"Nome, AK",6755.0,summer
+2025,8,34955,"Saipan, TT",6734.0,summer
+2025,8,34025,"Plattsburgh, NY",6690.0,summer
+2025,8,34704,"Salisbury, MD",6421.0,summer
+2025,8,32397,"Ithaca/Cortland, NY",6384.0,summer
+2025,8,33139,"Lynchburg, VA",5889.0,summer
+2025,8,34259,"Portsmouth, NH",5872.0,summer
+2025,8,32265,"Niagara Falls, NY",5862.0,summer
+2025,8,32119,"Hagerstown, MD",5837.0,summer
+2025,8,34716,"Stockton, CA",5783.0,summer
+2025,8,31695,"Flagstaff, AZ",5720.0,summer
+2025,8,31980,"Grand Island, NE",5717.0,summer
+2025,8,31049,"College Station/Bryan, TX",5705.0,summer
+2025,8,34303,"Pullman, WA",5659.0,summer
+2025,8,31555,"Kenai, AK",5609.0,summer
+2025,8,33970,"Kotzebue, AK",5567.0,summer
+2025,8,33785,"Yuma, AZ",5414.0,summer
+2025,8,30245,"King Salmon, AK",5309.0,summer
+2025,8,31778,"Fort Smith, AR",5259.0,summer
+2025,8,30894,"Columbus, MS",5214.0,summer
+2025,8,34150,"Pellston, MI",5119.0,summer
+2025,8,32012,"Gunnison, CO",5089.0,summer
+2025,8,35550,"Valdosta, GA",4801.0,summer
+2025,8,36422,"Gulf Shores, AL",4770.0,summer
+2025,8,30731,"Brunswick, GA",4760.0,summer
+2025,8,31308,"Dothan, AL",4760.0,summer
+2025,8,30073,"Deadhorse, AK",4708.0,summer
+2025,8,34520,"Rhinelander, WI",4610.0,summer
+2025,8,31097,"Cody, WY",4586.0,summer
+2025,8,31577,"Erie, PA",4564.0,summer
+2025,8,33034,"Lanai, HI",4562.0,summer
+2025,8,35411,"Tyler, TX",4437.0,summer
+2025,8,30155,"Waco, TX",4382.0,summer
+2025,8,30107,"Barrow, AK",4356.0,summer
+2025,8,34588,"Roswell, NM",4345.0,summer
+2025,8,34842,"San Angelo, TX",4143.0,summer
+2025,8,31027,"Clarksburg/Fairmont, WV",4128.0,summer
+2025,8,31041,"Carlsbad, CA",3926.0,summer
+2025,8,33076,"La Crosse, WI",3838.0,summer
+2025,8,31470,"Wenatchee, WA",3751.0,summer
+2025,8,33964,"North Bend/Coos Bay, OR",3704.0,summer
+2025,8,31013,"Sault Ste. Marie, MI",3669.0,summer
+2025,8,31336,"Dillingham, AK",3533.0,summer
+2025,8,32891,"Lawton/Fort Sill, OK",3509.0,summer
+2025,8,36101,"Yakima, WA",3488.0,summer
+2025,8,33127,"Lewiston, ID",3418.0,summer
+2025,8,34256,"Petersburg, AK",3407.0,summer
+2025,8,31076,"Hancock/Houghton, MI",3309.0,summer
+2025,8,30613,"Block Island, RI",3254.0,summer
+2025,8,30275,"Walla Walla, WA",3251.0,summer
+2025,8,31646,"Friday Harbor, WA",3217.0,summer
+2025,8,30146,"Albany, GA",3196.0,summer
+2025,8,34092,"Greenville, NC",3172.0,summer
+2025,8,34222,"Pago Pago, TT",3142.0,summer
+2025,8,35855,"Westerly, RI",3061.0,summer
+2025,8,34952,"Springfield, IL",3017.0,summer
+2025,8,31867,"Garden City, KS",3010.0,summer
+2025,8,30007,"Klawock, AK",2965.0,summer
+2025,8,35389,"Twin Falls, ID",2834.0,summer
+2025,8,35401,"Texarkana, AR",2822.0,summer
+2025,8,34877,"Salina, KS",2778.0,summer
+2025,8,35165,"Toledo, OH",2778.0,summer
+2025,8,35897,"West Yellowstone, MT",2739.0,summer
+2025,8,30728,"Beaumont/Port Arthur, TX",2690.0,summer
+2025,8,31905,"Longview, TX",2649.0,summer
+2025,8,34812,"Sheridan, WY",2629.0,summer
+2025,8,35074,"Stillwater, OK",2593.0,summer
+2025,8,30361,"Watertown, NY",2544.0,summer
+2025,8,31865,"Gillette, WY",2532.0,summer
+2025,8,30631,"Bemidji, MN",2521.0,summer
+2025,8,31997,"Gustavus, AK",2494.0,summer
+2025,8,35626,"Vieques, PR",2352.0,summer
+2025,8,32343,"International Falls, MN",2320.0,summer
+2025,8,33032,"Lancaster, PA",2285.0,summer
+2025,8,32177,"Hobbs, NM",2253.0,summer
+2025,8,35048,"Sioux City, IA",2241.0,summer
+2025,8,31233,"Cheyenne, WY",2230.0,summer
+2025,8,34237,"Prescott, AZ",2211.0,summer
+2025,8,34543,"Rock Springs, WY",2186.0,summer
+2025,8,34960,"Wichita Falls, TX",2186.0,summer
+2025,8,31468,"Kearney, NE",2183.0,summer
+2025,8,35215,"Tinian, TT",2179.0,summer
+2025,8,30141,"Aberdeen, SD",2170.0,summer
+2025,8,34534,"Riverton/Lander, WY",2154.0,summer
+2025,8,32335,"Iron Mountain/Kingsfd, MI",2153.0,summer
+2025,8,32511,"Joplin, MO",2126.0,summer
+2025,8,30913,"Cordova, AK",2121.0,summer
+2025,8,31699,"Florence, SC",2092.0,summer
+2025,8,31315,"Dickinson, ND",2069.0,summer
+2025,8,30779,"Butte, MT",2053.0,summer
+2025,8,34691,"San Bernardino, CA",1999.0,summer
+2025,8,31471,"Eau Claire, WI",1964.0,summer
+2025,8,35991,"Yakutat, AK",1940.0,summer
+2025,8,30268,"Waterloo, IA",1906.0,summer
+2025,8,30739,"Brainerd, MN",1890.0,summer
+2025,8,30009,"Homer, AK",1881.0,summer
+2025,8,34231,"Presque Isle/Houlton, ME",1855.0,summer
+2025,8,32559,"Johnstown, PA",1780.0,summer
+2025,8,34468,"Brooks Lodge, AK",1695.0,summer
+2025,8,33241,"Meridian, MS",1677.0,summer
+2025,8,31587,"Escanaba, MI",1612.0,summer
+2025,8,32888,"Laramie, WY",1589.0,summer
+2025,8,33832,"Ogdensburg, NY",1589.0,summer
+2025,8,31445,"Unalaska, AK",1566.0,summer
+2025,8,31525,"Elko, NV",1565.0,summer
+2025,8,32255,"Hays, KS",1561.0,summer
+2025,8,30333,"Alpena, MI",1545.0,summer
+2025,8,30577,"Binghamton, NY",1511.0,summer
+2025,8,35841,"Wrangell, AK",1490.0,summer
+2025,8,34306,"Provincetown, MA",1477.0,summer
+2025,8,30589,"Bar Harbor, ME",1470.0,summer
+2025,8,32899,"North Platte, NE",1399.0,summer
+2025,8,34120,"Pierre, SD",1364.0,summer
+2025,8,33743,"Ceiba, PR",1354.0,summer
+2025,8,33282,"Morgantown, WV",1300.0,summer
+2025,8,32129,"Hibbing, MN",1289.0,summer
+2025,8,34081,"Page, AZ",1266.0,summer
+2025,8,34109,"Hattiesburg/Laurel, MS",1228.0,summer
+2025,8,31126,"Culebra, PR",1222.0,summer
+2025,8,33182,"Manistee/Ludington, MI",1222.0,summer
+2025,8,30272,"Alamosa, CO",1198.0,summer
+2025,8,31588,"Eastsound, WA",1191.0,summer
+2025,8,30558,"Scottsbluff, NE",1184.0,summer
+2025,8,34905,"Santa Maria, CA",1174.0,summer
+2025,8,34477,"Roche Harbor, WA",1160.0,summer
+2025,8,30918,"Cedar City, UT",1135.0,summer
+2025,8,35177,"Telluride, CO",1124.0,summer
+2025,8,30617,"Bishop, CA",1118.0,summer
+2025,8,31844,"Galena, AK",1099.0,summer
+2025,8,32131,"Ogden, UT",1095.0,summer
+2025,8,35374,"Tupelo, MS",1085.0,summer
+2025,8,34943,"Show Low, AZ",1071.0,summer
+2025,8,33543,"Marion/Herrin, IL",1036.0,summer
+2025,8,34006,"Paducah, KY",1025.0,summer
+2025,8,30409,"Watertown, SD",1024.0,summer
+2025,8,32519,"Jamestown, ND",1018.0,summer
+2025,8,34539,"Rockland, ME",1016.0,summer
+2025,8,34113,"Pocatello, ID",1011.0,summer
+2025,8,35582,"Vernal, UT",978.0,summer
+2025,8,31711,"Farmington, NM",973.0,summer
+2025,8,31092,"Moab, UT",972.0,summer
+2025,8,31447,"Devils Lake, ND",971.0,summer
+2025,8,31197,"Clovis, NM",941.0,summer
+2025,8,30967,"Cape Girardeau, MO",940.0,summer
+2025,8,35138,"Fort Leonard Wood, MO",934.0,summer
+2025,8,33155,"Macon, GA",929.0,summer
+2025,8,33121,"Lewisburg, WV",924.0,summer
+2025,8,33348,"Jackson, TN",890.0,summer
+2025,8,31288,"Decatur, IL",885.0,summer
+2025,8,32412,"Ironwood, MI",885.0,summer
+2025,8,33211,"Mason City, IA",879.0,summer
+2025,8,30322,"Altoona, PA",874.0,summer
+2025,8,32878,"Lafayette, IN",850.0,summer
+2025,8,33983,"Owensboro, KY",850.0,summer
+2025,8,33344,"Muskegon, MI",849.0,summer
+2025,8,31550,"Emmonak, AK",846.0,summer
+2025,8,31402,"Haines, AK",832.0,summer
+2025,8,32932,"Lebanon-Hanover, NH",823.0,summer
+2025,8,31725,"Fort Dodge, IA",804.0,summer
+2025,8,32902,"Liberal, KS",799.0,summer
+2025,8,31274,"Dubuque, IA",776.0,summer
+2025,8,30930,"Crescent City, CA",770.0,summer
+2025,8,31283,"Dodge City, KS",766.0,summer
+2025,8,34871,"Salem, OR",751.0,summer
+2025,8,32171,"Hoonah, AK",728.0,summer
+2025,8,34582,"Rota, TT",712.0,summer
+2025,8,34797,"Skagway, AK",707.0,summer
+2025,8,30950,"Cortez, CO",670.0,summer
+2025,8,35381,"Thief River Falls, MN",666.0,summer
+2025,8,33484,"Muscle Shoals, AL",643.0,summer
+2025,8,34745,"Sidney, MT",604.0,summer
+2025,8,34802,"Staunton, VA",588.0,summer
+2025,8,33176,"Mayaguez, PR",582.0,summer
+2025,8,34054,"Pendleton, OR",561.0,summer
+2025,8,34875,"Saranac Lake/Lake Placid, NY",553.0,summer
+2025,8,32375,"Kirksville, MO",529.0,summer
+2025,8,30304,"Aniak, AK",526.0,summer
+2025,8,35554,"Chevak, AK",521.0,summer
+2025,8,35051,"Silver City/Hurley, NM",517.0,summer
+2025,8,32779,"Kipnuk, AK",515.0,summer
+2025,8,31615,"New Bedford/Fall River, MA",512.0,summer
+2025,8,32853,"Quinhagak, AK",512.0,summer
+2025,8,33490,"Massena, NY",492.0,summer
+2025,8,30414,"Augusta/Waterville, ME",491.0,summer
+2025,8,34648,"Rutland, VT",489.0,summer
+2025,8,34131,"Parkersburg, WV",486.0,summer
+2025,8,33055,"Lopez Island, WA",479.0,summer
+2025,8,31150,"Columbus, GA",478.0,summer
+2025,8,36587,"Deer Harbor, WA",468.0,summer
+2025,8,31931,"Greenville, MS",462.0,summer
+2025,8,31833,"Fort Yukon, AK",441.0,summer
+2025,8,32556,"St. Cloud, MN",430.0,summer
+2025,8,31441,"DuBois, PA",429.0,summer
+2025,8,33194,"Merced, CA",425.0,summer
+2025,8,30744,"Burlington, IA",421.0,summer
+2025,8,32195,"Hooper Bay, AK",416.0,summer
+2025,8,34628,"Rosario, WA",416.0,summer
+2025,8,30165,"Adak Island, AK",412.0,summer
+2025,8,33109,"Kalaupapa, HI",408.0,summer
+2025,8,32721,"Larsen Bay, AK",405.0,summer
+2025,8,35478,"Unalakleet, AK",390.0,summer
+2025,8,34572,"Renton, WA",382.0,summer
+2025,8,30225,"Wainwright, AK",372.0,summer
+2025,8,33520,"Kamuela, HI",371.0,summer
+2025,8,34234,"Pilot Station, AK",370.0,summer
+2025,8,35454,"Quincy, IL",366.0,summer
+2025,8,30654,"Beckley, WV",354.0,summer
+2025,8,32207,"Harrison, AR",342.0,summer
+2025,8,30783,"Bettles, AK",339.0,summer
+2025,8,34102,"Point Hope, AK",334.0,summer
+2025,8,33894,"Toksook, AK",330.0,summer
+2025,8,31085,"Carlsbad, NM",323.0,summer
+2025,8,30247,"Anaktuvuk Pass, AK",319.0,summer
+2025,8,30221,"Alliance, NE",313.0,summer
+2025,8,30416,"Alakanuk, AK",312.0,summer
+2025,8,32807,"St. Mary's, AK",312.0,summer
+2025,8,32610,"Kake, AK",304.0,summer
+2025,8,33862,"Wolf Point, MT",303.0,summer
+2025,8,30082,"Cold Bay, AK",302.0,summer
+2025,8,32018,"Gallup, NM",300.0,summer
+2025,8,34718,"Scammon Bay, AK",296.0,summer
+2025,8,30557,"Bradford, PA",294.0,summer
+2025,8,31908,"Glasgow, MT",294.0,summer
+2025,8,32245,"Havre, MT",291.0,summer
+2025,8,32831,"Kasigluk, AK",281.0,summer
+2025,8,31227,"Chefornak, AK",280.0,summer
+2025,8,33434,"Mountain Village, AK",280.0,summer
+2025,8,33196,"McGrath, AK",277.0,summer
+2025,8,35049,"Savoonga, AK",275.0,summer
+2025,8,30396,"Atqasuk, AK",274.0,summer
+2025,8,34288,"Pueblo, CO",272.0,summer
+2025,8,33770,"Nunapitchuk, AK",271.0,summer
+2025,8,30184,"Allakaket, AK",270.0,summer
+2025,8,32214,"Huslia, AK",270.0,summer
+2025,8,32769,"Kotlik, AK",268.0,summer
+2025,8,34627,"Russian Mission, AK",268.0,summer
+2025,8,32365,"Williamsport, PA",261.0,summer
+2025,8,30020,"Selawik, AK",260.0,summer
+2025,8,32190,"Hot Springs, AR",259.0,summer
+2025,8,32363,"El Centro, CA",258.0,summer
+2025,8,32708,"Kongiganak, AK",258.0,summer
+2025,8,34474,"Ruby, AK",256.0,summer
+2025,8,31464,"Noatak, AK",252.0,summer
+2025,8,35862,"Tuntutuliak, AK",250.0,summer
+2025,8,30640,"Buckland, AK",249.0,summer
+2025,8,34805,"Shishmaref, AK",248.0,summer
+2025,8,32719,"Kalskag, AK",247.0,summer
+2025,8,31531,"El Dorado, AR",246.0,summer
+2025,8,33942,"Noorvik, AK",245.0,summer
+2025,8,33768,"Nulato, AK",242.0,summer
+2025,8,31845,"Gambell, AK",241.0,summer
+2025,8,31492,"Eek, AK",235.0,summer
+2025,8,33200,"McCook, NE",231.0,summer
+2025,8,32649,"Nanwalek, AK",230.0,summer
+2025,8,33767,"Nuiqsut, AK",226.0,summer
+2025,8,30204,"Angoon, AK",222.0,summer
+2025,8,32844,"Kivalina, AK",222.0,summer
+2025,8,33369,"Marshall, AK",222.0,summer
+2025,8,34088,"Port Graham, AK",221.0,summer
+2025,8,35293,"Togiak, AK",209.0,summer
+2025,8,32455,"Jonesboro, AR",205.0,summer
+2025,8,33388,"Mammoth Lakes, CA",203.0,summer
+2025,8,32851,"Kwigillingok, AK",202.0,summer
+2025,8,34738,"Sandpoint, AK",202.0,summer
+2025,8,34895,"St. Michael, AK",196.0,summer
+2025,8,30349,"Arctic Village, AK",189.0,summer
+2025,8,35887,"Newtok, AK",189.0,summer
+2025,8,32709,"Akiachak, AK",187.0,summer
+2025,8,30775,"Barter Island, AK",186.0,summer
+2025,8,33863,"Old Harbor, AK",186.0,summer
+2025,8,30405,"Atmautluak, AK",185.0,summer
+2025,8,31879,"Glendive, MT",184.0,summer
+2025,8,35856,"Westsound, WA",181.0,summer
+2025,8,32268,"Kiana, AK",180.0,summer
+2025,8,30139,"Ambler, AK",179.0,summer
+2025,8,32755,"New Stuyahok, AK",176.0,summer
+2025,8,31535,"Elim, AK",174.0,summer
+2025,8,35581,"Venetie, AK",161.0,summer
+2025,8,32704,"Koyuk, AK",160.0,summer
+2025,8,33710,"Nightmute, AK",159.0,summer
+2025,8,33072,"Las Cruces, NM",158.0,summer
+2025,8,35721,"Stebbins, AK",156.0,summer
+2025,8,31924,"Gulkana, AK",154.0,summer
+2025,8,32174,"Hana, HI",154.0,summer
+2025,8,35124,"Tanana, AK",153.0,summer
+2025,8,32737,"Manokotak, AK",151.0,summer
+2025,8,32492,"Kapalua, HI",150.0,summer
+2025,8,34062,"Pelican, AK",148.0,summer
+2025,8,35085,"Sheldon Point, AK",147.0,summer
+2025,8,32855,"Kwethluk, AK",146.0,summer
+2025,8,35282,"Tununak, AK",145.0,summer
+2025,8,30241,"Akiak, AK",142.0,summer
+2025,8,35569,"Victoria, TX",141.0,summer
+2025,8,34125,"Point Lay, AK",138.0,summer
+2025,8,32822,"Brevig Mission, AK",134.0,summer
+2025,8,34856,"Shaktoolik, AK",132.0,summer
+2025,8,35342,"Taos, NM",130.0,summer
+2025,8,31214,"Coldfoot, AK",129.0,summer
+2025,8,34804,"Shungnak, AK",125.0,summer
+2025,8,35257,"Tuluksak, AK",122.0,summer
+2025,8,36553,"Akun, AK",114.0,summer
+2025,8,32615,"Kaltag, AK",112.0,summer
+2025,8,35798,"Napakiak, AK",111.0,summer
+2025,8,31952,"Goodnews Bay, AK",108.0,summer
+2025,8,33579,"Mekoryuk, AK",107.0,summer
+2025,8,31545,"Elfin Cove, AK",104.0,summer
+2025,8,32671,"Koliganek, AK",96.0,summer
+2025,8,35709,"Wales, AK",95.0,summer
+2025,8,31411,"Deering, AK",88.0,summer
+2025,8,31941,"Golovin, AK",88.0,summer
+2025,8,33806,"Kobuk, AK",85.0,summer
+2025,8,31007,"Chalkyitsik, AK",80.0,summer
+2025,8,35231,"Tenakee, AK",77.0,summer
+2025,8,32621,"Birch Creek, AK",75.0,summer
+2025,8,33504,"Metlakatla, AK",73.0,summer
+2025,8,35385,"Twin Hills, AK",72.0,summer
+2025,8,32772,"Ouzinkie, AK",70.0,summer
+2025,8,31463,"Eagle, AK",69.0,summer
+2025,8,32087,"Holy Cross, AK",66.0,summer
+2025,8,30925,"Chadron, NE",65.0,summer
+2025,8,32235,"Hughes, AK",65.0,summer
+2025,8,31406,"Platinum, AK",64.0,summer
+2025,8,32868,"Koyukuk, AK",64.0,summer
+2025,8,33934,"Port Lions, AK",64.0,summer
+2025,8,32786,"Akutan, AK",63.0,summer
+2025,8,34130,"Napaskiak, AK",63.0,summer
+2025,8,34273,"Port Heiden, AK",63.0,summer
+2025,8,35725,"Beaver, AK",63.0,summer
+2025,8,35794,"White Mountain, AK",62.0,summer
+2025,8,30056,"Kodiak Island, AK",60.0,summer
+2025,8,33564,"McCarthy, AK",57.0,summer
+2025,8,30243,"Akhiok, AK",56.0,summer
+2025,8,30661,"Boulder City, NV",55.0,summer
+2025,8,32631,"Chignik, AK",52.0,summer
+2025,8,34559,"Rampart, AK",50.0,summer
+2025,8,34673,"Safford, AZ",49.0,summer
+2025,8,30237,"Atka, AK",47.0,summer
+2025,8,32653,"Ekwok, AK",46.0,summer
+2025,8,34816,"Shageluk, AK",46.0,summer
+2025,8,30011,"Peach Springs, AZ",45.0,summer
+2025,8,35579,"Valdez, AK",45.0,summer
+2025,8,33984,"Norwood, MA",44.0,summer
+2025,8,34942,"Seldovia, AK",44.0,summer
+2025,8,32676,"Grayling, AK",42.0,summer
+2025,8,31053,"Clarks Point, AK",41.0,summer
+2025,8,35245,"Teller, AK",41.0,summer
+2025,8,31028,"Crooked Creek, AK",40.0,summer
+2025,8,32815,"Thorne Bay, AK",38.0,summer
+2025,8,33676,"Nikolai, AK",35.0,summer
+2025,8,30996,"Chuathbaluk, AK",34.0,summer
+2025,8,34119,"Pilot Point, AK",31.0,summer
+2025,8,30313,"Anvik, AK",30.0,summer
+2025,8,33003,"Kulik Lake, AK",30.0,summer
+2025,8,35171,"Tatitlek, AK",29.0,summer
+2025,8,34919,"St. Paul, AK",27.0,summer
+2025,8,34880,"Sleetmute, AK",26.0,summer
+2025,8,35012,"St. George Island, AK",24.0,summer
+2025,8,35061,"Stevens Village, AK",22.0,summer
+2025,8,35236,"Tok, AK",22.0,summer
+2025,8,30455,"Eagle Nest, NM",21.0,summer
+2025,8,31501,"Chenega, AK",21.0,summer
+2025,8,32784,"Perryville, AK",21.0,summer
+2025,8,32841,"King Cove, AK",21.0,summer
+2025,8,32866,"Karluk, AK",21.0,summer
+2025,8,31245,"Chisana, AK",19.0,summer
+2025,8,35160,"Takotna, AK",19.0,summer
+2025,8,33415,"Minto, AK",17.0,summer
+2025,8,31484,"Edna Bay, AK",15.0,summer
+2025,8,34270,"Port Alexander, AK",15.0,summer
+2025,8,33016,"Lake Minchumina, AK",14.0,summer
+2025,8,32141,"Healy, AK",13.0,summer
+2025,8,32370,"Circle, AK",13.0,summer
+2025,8,32720,"Levelock, AK",12.0,summer
+2025,8,30961,"Craig, AK",11.0,summer
+2025,8,31511,"Egegik, AK",11.0,summer
+2025,8,32315,"Nikolski, AK",11.0,summer
+2025,8,32705,"Kitoi Bay, AK",10.0,summer
+2025,8,30938,"Central, AK",9.0,summer
+2025,8,32294,"Igiugig, AK",9.0,summer
+2025,8,33381,"Manley Hot Springs, AK",9.0,summer
+2025,8,31619,"Excursion Inlet, AK",8.0,summer
+2025,8,32771,"Olga Bay, AK",8.0,summer
+2025,8,32253,"Hollis, AK",6.0,summer
+2025,8,32854,"West Point, AK",6.0,summer
+2025,8,33574,"May Creek, AK",6.0,summer
+2025,8,34493,"Red Devil, AK",6.0,summer
+2025,8,30324,"Amook Bay, AK",5.0,summer
+2025,8,32743,"Moser Bay, AK",5.0,summer
+2025,8,34229,"Port Protection, AK",5.0,summer
+2025,8,35278,"Tin City, AK",5.0,summer
+2025,8,32633,"Coffman Cove, AK",4.0,summer
+2025,8,34276,"Port Armstrong, AK",4.0,summer
+2025,8,34464,"Ugashik, AK",4.0,summer
+2025,8,35885,"Whale Pass, AK",4.0,summer
+2025,8,32869,"Zachar Bay, AK",3.0,summer
+2025,8,33111,"Cape Lisburne, AK",3.0,summer
+2025,8,35446,"Uganik, AK",3.0,summer
+2025,8,35853,"South Naknek, AK",3.0,summer
+2025,8,30278,"Lazy Bay, AK",2.0,summer
+2025,8,32782,"Port Williams, AK",2.0,summer
+2025,8,32663,"False Pass, AK",1.0,summer
+2025,8,32773,"Point Baker, AK",1.0,summer
+2025,8,32785,"Port Bailey, AK",1.0,summer
+2025,8,33704,"Nelson Lagoon, AK",1.0,summer
+2025,8,35091,"Seal Bay, AK",1.0,summer
+2025,8,35793,"Meyers Chuck, AK",1.0,summer

@@ -21,3 +21,4 @@ Thumbs.db
 # only a small sample plus the source link.
 # data/*.csv
 # !data/sample.csv
+Data/t100_market_2025_07.csv
